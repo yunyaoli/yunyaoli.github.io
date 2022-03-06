@@ -15,9 +15,9 @@ redirect_from:
 
 ### 2022
 
-- **A Simulation-based Evaluation Framework for Interactive AI Systems and Its Application.** Maeda F. Hanafi, Yannis Katsis, Martin Santillan Cooper, **Yunyao Li**.  To appear in _IAAI_ 2022
+- **A Simulation-based Evaluation Framework for Interactive AI Systems and Its Application.** Maeda F. Hanafi, Yannis Katsis, Martin Santillan Cooper, **Yunyao Li**.  In _IAAI_ 2022
 
-- **InteractEva: A Simulation-Based Evaluation Framework for Interactive AI Systems.**  Yannis Katsis, Maeda F. Hanafi, Martin Santillan Cooper, **Yunyao Li**. To appear in _AAAI (Demonstration Track)_ 2022
+- **InteractEva: A Simulation-Based Evaluation Framework for Interactive AI Systems.**  Yannis Katsis, Maeda F. Hanafi, Martin Santillan Cooper, **Yunyao Li**. In _AAAI (Demonstration Track)_ 2022
 
 ### 2021
 - **[LNN-EL: A Neuro-Symbolic Approach to Short-text Entity Linking](https://aclanthology.org/2021.acl-long.64.pdf).** Hang Jiang, Sairam Gurajada, Qiuhao Lu, Sumit Neelam, Lucian Popa, Prithviraj Sen, **Yunyao Li** and Alexander Gray. In _ACL (long paper)_ 2021
