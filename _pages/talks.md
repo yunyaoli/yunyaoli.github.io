@@ -9,7 +9,7 @@ author_profile: true
 
 ### 2022
 
-- Upcoming Tutorials: “**Deep Learning from Graphs**” at AAAI’22 and WWW’22; “**Meaning Representations for Natural Languages: Design, Models and Applications**” at EMNLP’22
+- Upcoming Tutorials: “**Deep Learning on Graphs for Natural Language Processing**” at AAAI’22 and WWW’22; “**Meaning Representations for Natural Languages: Design, Models and Applications**” at EMNLP’22
 
 ### 2021
 
