@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-### Active Projects 
+## Active Projects 
 
 **Apple Knowlege Platform**: We are building the next-generation of machine learning solutions in the Knowledge Platform at Apple and help power features including Siri and Spotlight. The technology we are build is redefining how billion of people use their computers and mobile devices to search and find what they are looking for.
 
@@ -76,7 +76,7 @@ PDF understanding is a general AI problem. In this project, we aim to provide an
 </tbody>
 </table>
 
-### Matured Projects 
+## Matured Projects 
 
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
@@ -100,7 +100,7 @@ PDF understanding is a general AI problem. In this project, we aim to provide an
 </tbody>
 </table>
 
-### Completed Projects
+## Completed Projects
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr style="height: 314px;">
