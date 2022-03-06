@@ -7,7 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-### Active Projects
+### Active Projects 
+
+**Apple Knowlege Platform**: We are building the next-generation of machine learning solutions in the Knowledge Platform at Apple and help power features including Siri and Spotlight. The technology we are build is redefining how billion of people use their computers and mobile devices to search and find what they are looking for.
+
+Projects that I perviously started and led at IBM Research: 
 
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
