@@ -15,6 +15,8 @@ redirect_from:
 
 ### 2022
 
+- **Domain Representative Keywords Selection: A Probabilistic Approach** Pritom Saha Akash, Jie Huang, Kevin Chen-Chuan Chang, **Yunyao Li**, Lucian Popa, ChengXiang Zhai. To appear in _ACL (findings)_ 2022
+
 - **A Simulation-based Evaluation Framework for Interactive AI Systems and Its Application.** Maeda F. Hanafi, Yannis Katsis, Martin Santillan Cooper, **Yunyao Li**.  In _IAAI_ 2022
 
 - **InteractEva: A Simulation-Based Evaluation Framework for Interactive AI Systems.**  Yannis Katsis, Maeda F. Hanafi, Martin Santillan Cooper, **Yunyao Li**. In _AAAI (Demonstration Track)_ 2022
