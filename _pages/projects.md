@@ -32,7 +32,7 @@ Universal Proposition Banks builds on the Universal Dependencies project and add
 <strong>Scientific Impact:</strong> (1) Public dataset; (2) Multiple research papers on data generation, curation, model building at top NLP conferences; (3) More to come in the near future. 
 </p>
 <p>
-<a style="color: #0375b4; text-decoration: none;" href="https://github.com/System-T/UniversalPropositions">Learn More</a> 
+<a style="color: #0375b4; text-decoration: none;" href="https://universalpropositions.github.io">Learn More</a> 
 </p>
 </td>
 </tr>
