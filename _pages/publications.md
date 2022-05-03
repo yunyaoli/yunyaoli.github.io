@@ -15,11 +15,14 @@ redirect_from:
 
 ### 2022
 
+- **Label Definitions Improve Semantic Role Labeling**. Harry Zhang, Ishan Jindal, and Yunyao Li. To appear in \textit{NAACL} 2022
+- **Universal Proposition Bank 2.0**. Ishan Jindal, Alexandre Rademaker, Michał Ulewicz, Huyen Nguyen, Ha Linh, Khoi-Nguyen Tran, Huaiyu Zhu and Yunyao Li. To appear in \textit{LREC} 2022
+
 - **Domain Representative Keywords Selection: A Probabilistic Approach.** Pritom Saha Akash, Jie Huang, Kevin Chen-Chuan Chang, **Yunyao Li**, Lucian Popa, ChengXiang Zhai. To appear in _ACL (findings)_ 2022
 
-- **A Simulation-based Evaluation Framework for Interactive AI Systems and Its Application.** Maeda F. Hanafi, Yannis Katsis, Martin Santillan Cooper, **Yunyao Li**.  In _IAAI_ 2022
+- **[A Simulation-based Evaluation Framework for Interactive AI Systems and Its Application](https://www.aaai.org/AAAI22Papers/IAAI-00142-HanafiM.pdf).** Maeda F. Hanafi, Yannis Katsis, Martin Santillan Cooper, **Yunyao Li**.  In _IAAI_ 2022
 
-- **InteractEva: A Simulation-Based Evaluation Framework for Interactive AI Systems.**  Yannis Katsis, Maeda F. Hanafi, Martin Santillan Cooper, **Yunyao Li**. In _AAAI (Demonstration Track)_ 2022
+- **[InteractEva: A Simulation-Based Evaluation Framework for Interactive AI Systems](https://www.aaai.org/AAAI22Papers/DEMO-00309-KatsisY.pdf).**  Yannis Katsis, Maeda F. Hanafi, Martin Santillan Cooper, **Yunyao Li**. In _AAAI (Demonstration Track)_ 2022
 
 ### 2021
 - **[LNN-EL: A Neuro-Symbolic Approach to Short-text Entity Linking](https://aclanthology.org/2021.acl-long.64.pdf).** Hang Jiang, Sairam Gurajada, Qiuhao Lu, Sumit Neelam, Lucian Popa, Prithviraj Sen, **Yunyao Li** and Alexander Gray. In _ACL (long paper)_ 2021
