@@ -15,8 +15,8 @@ redirect_from:
 
 ### 2022
 
-- **Label Definitions Improve Semantic Role Labeling**. Harry Zhang, Ishan Jindal, and Yunyao Li. To appear in _NAACL_ 2022
-- **Universal Proposition Bank 2.0**. Ishan Jindal, Alexandre Rademaker, Michał Ulewicz, Huyen Nguyen, Ha Linh, Khoi-Nguyen Tran, Huaiyu Zhu and Yunyao Li. To appear in _LREC_ 2022
+- **Label Definitions Improve Semantic Role Labeling**. Harry Zhang, Ishan Jindal, and Yunyao Li. In _NAACL_ 2022
+- **Universal Proposition Bank 2.0**. Ishan Jindal, Alexandre Rademaker, Michał Ulewicz, Huyen Nguyen, Ha Linh, Khoi-Nguyen Tran, Huaiyu Zhu and Yunyao Li. In _LREC_ 2022
 
 - **Domain Representative Keywords Selection: A Probabilistic Approach.** Pritom Saha Akash, Jie Huang, Kevin Chen-Chuan Chang, **Yunyao Li**, Lucian Popa, ChengXiang Zhai. In _ACL (findings)_ 2022
 
