@@ -41,6 +41,8 @@ author_profile: true
 
 ### Selected IBM Recognition and Awards
 
+- **Corporate Technical Award**, Watson NLP Stack (2022)
+
 - **Member**, IBM Academy of Technology (2016-2022)
   - Selected for demonstrated exceptional leadership and technical eminence
 
