@@ -4,6 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+- __July 2022__ Thrilled to announce the first release of Label Sleuth, a new open-source human-in-the-loop annotation system for text classification ([Announcement](https://www.linkedin.com/posts/yunyao-li_active-learning-driven-labeling-assistance-activity-6953005239859908608-ATQD?utm_source=share&utm_medium=member_desktop))
 - __Apr. 29, 2022__ We just released Universal Proposition Bank 2.0 ([Announcement](https://twitter.com/yunyao_li/status/1520774613013204992)). 
 - __Mar. 25, 2022__ I will be moderating NAACL'22 Careers in NLP Panel. Most details coming soon. 
 - __Feb. 14, 2022__ I joined Apple as the Head of Machine Learning of Knowledge Platform team ([LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:6900565556697686016/)) 
