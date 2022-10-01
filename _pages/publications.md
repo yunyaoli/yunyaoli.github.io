@@ -114,8 +114,7 @@ Technology_ April 2020
 
 - **[Active Learning for Black-Box Semantic Role Labeling with Neural Factors](https://www.ijcai.org/Proceedings/2017/0405.pdf).** Chenguang Wang, Laura Chiticariu, and **Yunyao Li**.  In _IJCAI_ 2017
 
-- **[SEER: Auto-Generating Information Extraction Rules from User-Specified Examples](https://yunyaoli.github.io
-- /files/chi17_seer.pdf).** Maeda F. Hanafi, Azza Abouzied, Laura Chiticariu, and **Yunyao Li**. In _CHI_ 2017
+- **[SEER: Auto-Generating Information Extraction Rules from User-Specified Examples](https://yunyaoli.github.io/files/chi17_seer.pdf).** Maeda F. Hanafi, Azza Abouzied, Laura Chiticariu, and **Yunyao Li**. In _CHI_ 2017
 
 - **[Synthesizing Extraction Rules from User Examples with SEER](https://yunyaoli.github.io/files/sigmod17-seer.pdf).** Maeda F. Hanafi, Azza Abouzied, Laura Chiticariu, and **Yunyao Li**.  In _SIGMOD (Demonstration Track)_ 2017
 
