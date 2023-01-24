@@ -13,10 +13,17 @@ redirect_from:
 
 ### Refereed Conference/Journal Articles
 
+### 2023
+
+- **PriMeSRL-Eval: A Practical Quality Metric for Semantic Role Labeling Systems Evaluation**. Ishan Jindal, Alexandre Rademaker, Khoi-Nguyen Tran, Huaiyu Zhu, Hiroshi Kanayama, Marina Danilevsky and **Yunyao Li**. To appear in _EACL (Findings)_ 2023
+- **On Building AI-Powered Chatbots to Support Information Seeking during Crises**. Ziang Xiao, Tyrone W Andre Grandison, Q. Vera Liao, Michelle Zhou, and **Yunyao Li**. To appear in _IUI_ 2023
+
 ### 2022
 
-- **Label Definitions Improve Semantic Role Labeling**. Harry Zhang, Ishan Jindal, and Yunyao Li. In _NAACL_ 2022
-- **Universal Proposition Bank 2.0**. Ishan Jindal, Alexandre Rademaker, Michał Ulewicz, Huyen Nguyen, Ha Linh, Khoi-Nguyen Tran, Huaiyu Zhu and Yunyao Li. In _LREC_ 2022
+- **Label Sleuth: From Unlabeled Text to a Classifier in a Few Hours**. Eyal Shnarch, Alon Halfon, Ariel Gera, Marina Danilevsky, Yannis Katsis, Leshem Choshen, Martin Santillan Cooper, Dina Epelboim, Zheng Zhang, Dakuo Wang, Lucy Yip, Liat Ein-Dor, Lena Dankin, Ilya Shnayderman, Ranit Aharonov, **Yunyao Li**, Naftali Liberman, Philip Levin Slesarev, Gwilym Newton, Shila Ofek-Koifman, Noam Slonim, Yoav Katz. In _EMNLP (Demonstration Track)_ 2022
+
+- **Label Definitions Improve Semantic Role Labeling**. Harry Zhang, Ishan Jindal, and **Yunyao Li**. In _NAACL_ 2022
+- **Universal Proposition Bank 2.0**. Ishan Jindal, Alexandre Rademaker, Michał Ulewicz, Huyen Nguyen, Ha Linh, Khoi-Nguyen Tran, Huaiyu Zhu and **Yunyao Li**. In _LREC_ 2022
 
 - **Domain Representative Keywords Selection: A Probabilistic Approach.** Pritom Saha Akash, Jie Huang, Kevin Chen-Chuan Chang, **Yunyao Li**, Lucian Popa, ChengXiang Zhai. In _ACL (findings)_ 2022
 
