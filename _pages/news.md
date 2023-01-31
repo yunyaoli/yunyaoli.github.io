@@ -4,6 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+- __Jan. 2023__ Elected to be a member of NAACL Executive Board (2023-2024). Looking forward to working with the NAACL community to bridge academic and industry research, promote interdisciplinary work, and support the growth of our community!
 - __July 2022__ Thrilled to announce the first release of Label Sleuth, a new open-source human-in-the-loop annotation system for text classification ([Announcement](https://www.linkedin.com/posts/yunyao-li_active-learning-driven-labeling-assistance-activity-6953005239859908608-ATQD?utm_source=share&utm_medium=member_desktop))
 - __Apr. 29, 2022__ We just released Universal Proposition Bank 2.0 ([Announcement](https://twitter.com/yunyao_li/status/1520774613013204992)). 
 - __Mar. 25, 2022__ I will be moderating NAACL'22 Careers in NLP Panel. Most details coming soon. 
