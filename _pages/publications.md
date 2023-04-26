@@ -18,7 +18,7 @@ redirect_from:
 
 - **PriMeSRL-Eval: A Practical Quality Metric for Semantic Role Labeling Systems Evaluation**. Ishan Jindal, Alexandre Rademaker, Khoi-Nguyen Tran, Huaiyu Zhu, Hiroshi Kanayama, Marina Danilevsky and **Yunyao Li**. To appear in _EACL (Findings)_ 2023
 
-- **On Building AI-Powered Chatbots to Support Information Seeking during Crises**. Ziang Xiao, Tyrone W Andre Grandison, Q. Vera Liao, Michelle Zhou, and **Yunyao Li**. _IUI_ 2023
+- **[Powering an AI Chatbot with Expert Sourcing to Support Credible Health Information Access](https://arxiv.org/pdf/2301.10710.pdf)**. Ziang Xiao, Tyrone W Andre Grandison, Q. Vera Liao, Michelle Zhou, and **Yunyao Li**. _IUI_ 2023
 
 ### 2022
 
