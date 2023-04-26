@@ -14,10 +14,11 @@ redirect_from:
 ### Refereed Conference/Journal Articles
 
 ### 2023
+- **Growing and Serving Large Open-domain Knowledge Graphs**. Ihab Ilyas, JP Lacerda, **Yunyao Li**, Umar Farooq Minhas, Ali Mousavi, Jeff Pound, Theodoros Rekatsinas, Chiraag Sumanth. To appear in _SIGMOD (Industry Track)_ 2023
 
 - **PriMeSRL-Eval: A Practical Quality Metric for Semantic Role Labeling Systems Evaluation**. Ishan Jindal, Alexandre Rademaker, Khoi-Nguyen Tran, Huaiyu Zhu, Hiroshi Kanayama, Marina Danilevsky and **Yunyao Li**. To appear in _EACL (Findings)_ 2023
 
-- **On Building AI-Powered Chatbots to Support Information Seeking during Crises**. Ziang Xiao, Tyrone W Andre Grandison, Q. Vera Liao, Michelle Zhou, and **Yunyao Li**. To appear in _IUI_ 2023
+- **On Building AI-Powered Chatbots to Support Information Seeking during Crises**. Ziang Xiao, Tyrone W Andre Grandison, Q. Vera Liao, Michelle Zhou, and **Yunyao Li**. _IUI_ 2023
 
 ### 2022
 
