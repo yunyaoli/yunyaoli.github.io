@@ -6,6 +6,7 @@ author_profile: true
 ---
 - __Apr. 2023__ Upcoming tutorial: "**Meaning Representations for Natural Languages: Design, Models and Applications**" at IJCAI'2023
 - __Jan. 2023__ Elected to be a member of NAACL Executive Board (2023-2024). Looking forward to working with the NAACL community to bridge academic and industry research, promote interdisciplinary work, and support the growth of our community!
+- __Oct. 2023__ Honored to co-chairing the AI session for the First U.S.-Africa Frontiers of Science, Engineering, and Medicine Symposium ([link](https://www.nationalacademies.org/event/10-12-2022/first-us-africa-frontiers-of-science-engineering-and-medicine-symposium))
 - __July 2022__ Thrilled to announce the first release of Label Sleuth, a new open-source human-in-the-loop annotation system for text classification ([Announcement](https://www.linkedin.com/posts/yunyao-li_active-learning-driven-labeling-assistance-activity-6953005239859908608-ATQD?utm_source=share&utm_medium=member_desktop))
 - __Apr. 29, 2022__ We just released Universal Proposition Bank 2.0 ([Announcement](https://twitter.com/yunyao_li/status/1520774613013204992)). 
 - __Mar. 25, 2022__ I will be moderating NAACL'22 Careers in NLP Panel. Most details coming soon. 
