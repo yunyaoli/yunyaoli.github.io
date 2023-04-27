@@ -7,10 +7,15 @@ author_profile: true
 
 ## Invited Talks, Keynote Speeches, Panels, and Tutorials 
 
+### 2023
+
+- (Upcoming) Tutorial: “**Meaning Representations for Natural Languages: Design, Models and Applications**”, IJCAI’22, August 2023
+- (Upcoming) Keynote talk: HILDA'2023 ([Workshop on Human-In-the-Loop Data Analytics](https://hilda.io/2023/), Co-located with SIGMOD 2023, June 2023
+
 ### 2022
 
-- Panel (moderator): "**Careers in NLP**", EMNLP'22 
-- Tutorial: “**Meaning Representations for Natural Languages: Design, Models and Applications**”, EMNLP’22
+- Panel (moderator): "**Careers in NLP**", EMNLP'22, December 2022
+- Tutorial: “**Meaning Representations for Natural Languages: Design, Models and Applications**”, EMNLP’22, December 2022
 - Panel (panelist): "**Industry Panel**" at Stanford Graph Learning Workshop ([recording](https://t.co/EG9wEO6But) towards the end), September 2022
 - Keynote talk: "**Building Large-Scale Knowledge Bases with Human in the Loop**", IEEE International Symposium on Women in Services Computing (WISC 2022), July 2022
 - Panel (moderator): "**Careers in NLP**", NAACL'22
