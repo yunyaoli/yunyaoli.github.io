@@ -11,7 +11,7 @@ author_profile: true
 
 - **Distinguished Member**, [Association for Computing Machinery](https://www.acm.org/media-center/2020/december/distinguished-members-2020) (Since December 2020)
 
-- **Member**, [New Voices in Sciences, Engineering and Medicine](http://www.nationalacademies.org/newvoices/), National Academies (2018 – 2020)
+- **Member**, [New Voices in Sciences, Engineering and Medicine](http://www.nationalacademies.org/newvoices/), National Academies (class 2018)
   - 1 of 18 selected nation-wide for this inaugural class.
 
 ### Selected Leadership Awards
