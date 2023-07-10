@@ -10,13 +10,14 @@ redirect_from:
 
 ### Book
 - **[Natural Language Data Management and Interfaces](https://www.morganclaypool.com/doi/10.2200/S00866ED1V01Y201807DTM049).** **Yunyao Li** and Davood Rafiei. _Morgan Claypool Publisher_. 2018
+- **Natural Language Interfaces to Databases** **Yunyao Li**, Dragomir Radev, and Davood Rafiei [draft](https://nlidb.github.io/book/) Springer Nature. Upcoming Fall 2023
 
 ### Refereed Conference/Journal Articles
 
 ### 2023
 - **When to Use What: An In-Depth Comparative Empirical Analysis of OpenIE Systems for Downstream Applications**. Kevin Song Pei, Ishan Jindal, Kevin Chen-Chuan Chang, ChengXiang Zhai and **Yunyao Li**. To appear in _ACL_ 2023
 
-- **Growing and Serving Large Open-domain Knowledge Graphs**. Ihab Ilyas, JP Lacerda, **Yunyao Li**, Umar Farooq Minhas, Ali Mousavi, Jeff Pound, Theodoros Rekatsinas, Chiraag Sumanth. In _SIGMOD (Industry Track)_ 2023
+- **[Growing and Serving Large Open-domain Knowledge Graphs](https://dl.acm.org/doi/10.1145/3555041.3589672)**. Ihab Ilyas, JP Lacerda, **Yunyao Li**, Umar Farooq Minhas, Ali Mousavi, Jeff Pound, Theodoros Rekatsinas, Chiraag Sumanth. In _SIGMOD (Industry Track)_ 2023
 
 - **PriMeSRL-Eval: A Practical Quality Metric for Semantic Role Labeling Systems Evaluation**. Ishan Jindal, Alexandre Rademaker, Khoi-Nguyen Tran, Huaiyu Zhu, Hiroshi Kanayama, Marina Danilevsky and **Yunyao Li**. In _EACL (Findings)_ 2023
 
