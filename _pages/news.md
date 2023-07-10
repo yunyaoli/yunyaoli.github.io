@@ -4,6 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+- __June. 2023__  Gave talks about my newer work from Apple "**Building, Growing and Serving Large Knowledge Graphs with Human-in-the-Loop**", at Tsinghua University and HILDA Workshop [slides](https://www.slideshare.net/YunyaoLi/building-growing-and-serving-large-knowledge-graphs-with-humanintheloop)
 - __Apr. 2023__ Upcoming tutorial: "**Meaning Representations for Natural Languages: Design, Models and Applications**" at IJCAI'2023
 - __Jan. 2023__ Elected to be a member of **NAACL Executive Board** (2023-2024). Looking forward to working with the NAACL community to bridge academic and industry research, promote interdisciplinary work, and support the growth of our community!
 - __Oct. 2023__ Honored to co-organizing and co-chairing the AI session for the **First U.S.-Africa Frontiers of Science, Engineering, and Medicine Symposium** ([link](https://www.nationalacademies.org/event/10-12-2022/first-us-africa-frontiers-of-science-engineering-and-medicine-symposium))
