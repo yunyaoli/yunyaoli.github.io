@@ -10,7 +10,7 @@ redirect_from:
 
 ### Book
 - **[Natural Language Data Management and Interfaces](https://www.morganclaypool.com/doi/10.2200/S00866ED1V01Y201807DTM049).** **Yunyao Li** and Davood Rafiei. _Morgan Claypool Publisher_. 2018
-- **Natural Language Interfaces to Databases** **Yunyao Li**, Dragomir Radev, and Davood Rafiei [draft](https://nlidb.github.io/book/) Springer Nature. Upcoming Fall 2023
+- **Natural Language Interfaces to Databases** **Yunyao Li**, Dragomir Radev, and Davood Rafiei. Springer Nature. Upcoming Fall 2023 [Current draft](https://nlidb.github.io/book/) 
 
 ### Refereed Conference/Journal Articles
 
