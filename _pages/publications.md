@@ -25,12 +25,13 @@ redirect_from:
 
 ### 2022
 
-- **Label Sleuth: From Unlabeled Text to a Classifier in a Few Hours**. Eyal Shnarch, Alon Halfon, Ariel Gera, Marina Danilevsky, Yannis Katsis, Leshem Choshen, Martin Santillan Cooper, Dina Epelboim, Zheng Zhang, Dakuo Wang, Lucy Yip, Liat Ein-Dor, Lena Dankin, Ilya Shnayderman, Ranit Aharonov, **Yunyao Li**, Naftali Liberman, Philip Levin Slesarev, Gwilym Newton, Shila Ofek-Koifman, Noam Slonim, Yoav Katz. In _EMNLP (Demonstration Track)_ 2022
+- **[Label Sleuth: From Unlabeled Text to a Classifier in a Few Hours](https://aclanthology.org/2022.emnlp-demos.16/)**. Eyal Shnarch, Alon Halfon, Ariel Gera, Marina Danilevsky, Yannis Katsis, Leshem Choshen, Martin Santillan Cooper, Dina Epelboim, Zheng Zhang, Dakuo Wang, Lucy Yip, Liat Ein-Dor, Lena Dankin, Ilya Shnayderman, Ranit Aharonov, **Yunyao Li**, Naftali Liberman, Philip Levin Slesarev, Gwilym Newton, Shila Ofek-Koifman, Noam Slonim, Yoav Katz. In _EMNLP (Demonstration Track)_ 2022
 
-- **Label Definitions Improve Semantic Role Labeling**. Harry Zhang, Ishan Jindal, and **Yunyao Li**. In _NAACL_ 2022
-- **Universal Proposition Bank 2.0**. Ishan Jindal, Alexandre Rademaker, Michał Ulewicz, Huyen Nguyen, Ha Linh, Khoi-Nguyen Tran, Huaiyu Zhu and **Yunyao Li**. In _LREC_ 2022
+- **[Label Definitions Improve Semantic Role Labeling](https://aclanthology.org/2022.naacl-main.411/)**. Harry Zhang, Ishan Jindal, and **Yunyao Li**. In _NAACL_ 2022
 
-- **Domain Representative Keywords Selection: A Probabilistic Approach.** Pritom Saha Akash, Jie Huang, Kevin Chen-Chuan Chang, **Yunyao Li**, Lucian Popa, ChengXiang Zhai. In _ACL (findings)_ 2022
+- **[Universal Proposition Bank 2.0](https://aclanthology.org/2022.lrec-1.181/)**. Ishan Jindal, Alexandre Rademaker, Michał Ulewicz, Huyen Nguyen, Ha Linh, Khoi-Nguyen Tran, Huaiyu Zhu and **Yunyao Li**. In _LREC_ 2022
+
+- **[Domain Representative Keywords Selection: A Probabilistic Approach](https://aclanthology.org/2022.findings-acl.56/).** Pritom Saha Akash, Jie Huang, Kevin Chen-Chuan Chang, **Yunyao Li**, Lucian Popa, ChengXiang Zhai. In _ACL (findings)_ 2022
 
 - **[A Simulation-based Evaluation Framework for Interactive AI Systems and Its Application](https://www.aaai.org/AAAI22Papers/IAAI-00142-HanafiM.pdf).** Maeda F. Hanafi, Yannis Katsis, Martin Santillan Cooper, **Yunyao Li**.  In _IAAI_ 2022
 
