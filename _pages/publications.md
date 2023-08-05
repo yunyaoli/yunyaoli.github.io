@@ -15,13 +15,13 @@ redirect_from:
 ### Refereed Conference/Journal Articles
 
 ### 2023
-- **When to Use What: An In-Depth Comparative Empirical Analysis of OpenIE Systems for Downstream Applications**. Kevin Song Pei, Ishan Jindal, Kevin Chen-Chuan Chang, ChengXiang Zhai and **Yunyao Li**. To appear in _ACL_ 2023
+- **When to Use What: An In-Depth Comparative Empirical Analysis of OpenIE Systems for Downstream Applications**. Kevin Song Pei, Ishan Jindal, Kevin Chen-Chuan Chang, ChengXiang Zhai and **Yunyao Li**. In _ACL_ 2023
 
 - **[Growing and Serving Large Open-domain Knowledge Graphs](https://dl.acm.org/doi/10.1145/3555041.3589672)**. Ihab Ilyas, JP Lacerda, **Yunyao Li**, Umar Farooq Minhas, Ali Mousavi, Jeff Pound, Theodoros Rekatsinas, Chiraag Sumanth. In _SIGMOD (Industry Track)_ 2023
 
 - **PriMeSRL-Eval: A Practical Quality Metric for Semantic Role Labeling Systems Evaluation**. Ishan Jindal, Alexandre Rademaker, Khoi-Nguyen Tran, Huaiyu Zhu, Hiroshi Kanayama, Marina Danilevsky and **Yunyao Li**. In _EACL (Findings)_ 2023
 
-- **[Powering an AI Chatbot with Expert Sourcing to Support Credible Health Information Access](https://arxiv.org/pdf/2301.10710.pdf)**. Ziang Xiao, Tyrone W Andre Grandison, Q. Vera Liao, Michelle Zhou, and **Yunyao Li**. _IUI_ 2023
+- **[Powering an AI Chatbot with Expert Sourcing to Support Credible Health Information Access](https://arxiv.org/pdf/2301.10710.pdf)**. Ziang Xiao, Tyrone W Andre Grandison, Q. Vera Liao, Michelle Zhou, and **Yunyao Li**. In _IUI_ 2023
 
 ### 2022
 
