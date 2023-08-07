@@ -17,6 +17,8 @@ redirect_from:
 ### 2023
 - **[When to Use What: An In-Depth Comparative Empirical Analysis of OpenIE Systems for Downstream Applications](https://aclanthology.org/2023.acl-long.53.pdf)**. Kevin Song Pei, Ishan Jindal, Kevin Chen-Chuan Chang, ChengXiang Zhai and **Yunyao Li**. In _ACL_ 2023
 
+- **[Fact Ranking over Large-Scale Knowledge Graphs with Reasoning Embedding Models](http://sites.computer.org/debull/A23june/p124.pdf)**. Hongyu Ren, Ali Mousavi, Anil Pacaci, Shihabur R. Chowdhury, Jason Mohoney, Ihab F. Ilyas, **Yunyao Li**, Theodoros Rekatsinas. In _Data Engineering Bulletin_ June 2023 (Special Issue on Graph Neural Networks)
+
 - **[Growing and Serving Large Open-domain Knowledge Graphs](https://dl.acm.org/doi/10.1145/3555041.3589672)**. Ihab Ilyas, JP Lacerda, **Yunyao Li**, Umar Farooq Minhas, Ali Mousavi, Jeff Pound, Theodoros Rekatsinas, Chiraag Sumanth. In _SIGMOD (Industry Track)_ 2023
 
 - **[PriMeSRL-Eval: A Practical Quality Metric for Semantic Role Labeling Systems Evaluation](https://aclanthology.org/2023.findings-eacl.134.pdf)**. Ishan Jindal, Alexandre Rademaker, Khoi-Nguyen Tran, Huaiyu Zhu, Hiroshi Kanayama, Marina Danilevsky and **Yunyao Li**. In _EACL (Findings)_ 2023
