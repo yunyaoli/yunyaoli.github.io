@@ -4,6 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+- __October 2023__ We will be hosting **Data Science with Human-in-the-Loop** at NAACL'2023!
 - __August 2023__ Updated tutorial on Meaning Representation at IJCAI. [link](https://universalpropositions.github.io/up_event#ijcai-2023)
 - __June 2023__  First paper about my work at Apple "**Growing and Serving Large Open-domain Knowledge Graphs**" at SIGMOD'2023 [link](https://dl.acm.org/doi/10.1145/3555041.3589672)
 - __June 2023__  Gave talks about my newer work from Apple "**Building, Growing and Serving Large Knowledge Graphs with Human-in-the-Loop**", at Tsinghua University and HILDA Workshop [slides](https://www.slideshare.net/YunyaoLi/building-growing-and-serving-large-knowledge-graphs-with-humanintheloop)
