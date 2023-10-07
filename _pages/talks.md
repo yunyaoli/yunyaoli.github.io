@@ -9,7 +9,7 @@ author_profile: true
 
 ### 2023
 
-- (Upcoming) Tutorial: “**Meaning Representations for Natural Languages: Design, Models and Applications**”, IJCAI’22, August 2023
+- Tutorial: “**Meaning Representations for Natural Languages: Design, Models and Applications**”, IJCAI’22, August 2023 [slides](https://universalpropositions.github.io/up_event#ijcai-2023)
 - Keynote talk: "**Building, Growing and Serving Large Knowledge Graphs with Human-in-the-Loop**", HILDA'2023 ([Workshop on Human-In-the-Loop Data Analytics](https://hilda.io/2023/)), Co-located with SIGMOD 2023, June 2023 [slides](https://www.slideshare.net/YunyaoLi/building-growing-and-serving-large-knowledge-graphs-with-humanintheloop)
 - Invited talk: "**Building, Growing and Serving Large Knowledge Graphs with Human-in-the-Loop**", Tsinghua University [slides](https://www.slideshare.net/YunyaoLi/building-growing-and-serving-large-knowledge-graphs-with-humanintheloop)
 
