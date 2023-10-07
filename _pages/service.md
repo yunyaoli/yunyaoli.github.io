@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Selected Board Membership
+- Board Member, NAACL Executive Board, Since Janunary 2023
 - Board Member, NIST TAC-KBP Scientific Advisory Board, Since May 2020
 - Board Member, Industry Advisory Board, Master of Science in Natural Language Processing, UC-Santa Cruz, Since September 2018
 - Board Member, External Advisory Board, Bachelor of Science in Computer Science program, San Jose State University, 2016-2018
