@@ -9,7 +9,7 @@ author_profile: true
 
 ## Active Projects 
 
-**Apple Knowlege Platform**: We are building the next-generation of machine learning solutions in the Knowledge Platform at Apple and help power features including Siri and Spotlight. The technology we are build is redefining how billion of people use their computers and mobile devices to search and find what they are looking for. In particular, my team focuses on growing and serving open domain knowledge graph. More details about our recent work can be found [here](https://machinelearning.apple.com/research/open-domain-knowledgegraphs).
+**Apple Knowlege Platform**: We are building the next-generation of machine learning solutions in the Knowledge Platform at Apple and help power features including Siri and Spotlight. The technology we are build is redefining how billion of people use their computers and mobile devices to search and find what they are looking for. In particular, I am leading the efforts on growing and serving open domain knowledge graph. More details about some of our recent work can be found [here](https://machinelearning.apple.com/research/open-domain-knowledgegraphs).
 
 **Active Projects @IBM Research** that I perviously started and led: 
 
