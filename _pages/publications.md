@@ -15,6 +15,10 @@ redirect_from:
 ### Refereed Conference/Journal Articles
 
 ### 2023
+-- **Increasing Coverage and Precision of Textual Information in Multilingual Knowledge Graphs**. Simone Conia, Min Li, Daniel Lee, Umar Farooq Minhas, Ihab Ilyas, **Yunyao Li**. To appear in _EMNLP_ 2023
+
+-- **Beyond Labels: Empowering Human Annotators with Natural Language Explanations through a Novel Active-Learning Architecture**. Bingsheng Yao, Ishan Jindal, Lucian Popa, Yannis Katsis, Sayan Ghosh, Lihong He, Yuxuan Lu, Shashank Srivastava, **Yunyao Li**, James Hendler, Dakuo Wang. To appear in _EMNLP (finding)_ 2023
+
 - **FLEEK: Factual Error Detection and Correction with Evidence Retrieved from External Knowledge**.Farima Fatahi Bayat, Kun Qian, Benjamin Han, Yisi Sang, Anton Belyi, Samira Khorshidi, Fei Wu, Ihab F. Ilyas, **Yunyao Li**. To appear in _EMNLP (Demonstration Track)_ 2023
 - **[When to Use What: An In-Depth Comparative Empirical Analysis of OpenIE Systems for Downstream Applications](https://aclanthology.org/2023.acl-long.53.pdf)**. Kevin Song Pei, Ishan Jindal, Kevin Chen-Chuan Chang, ChengXiang Zhai and **Yunyao Li**. In _ACL_ 2023
 
