@@ -15,6 +15,7 @@ redirect_from:
 ### Refereed Conference/Journal Articles
 
 ### 2023
+- **FLEEK: Factual Error Detection and Correction with Evidence Retrieved from External Knowledge**.Farima Fatahi Bayat, Kun Qian, Benjamin Han, Yisi Sang, Anton Belyi, Samira Khorshidi, Fei Wu, Ihab F. Ilyas, Yunyao Li. To appear in _EMNLP (Demonstration Track)_ 2023
 - **[When to Use What: An In-Depth Comparative Empirical Analysis of OpenIE Systems for Downstream Applications](https://aclanthology.org/2023.acl-long.53.pdf)**. Kevin Song Pei, Ishan Jindal, Kevin Chen-Chuan Chang, ChengXiang Zhai and **Yunyao Li**. In _ACL_ 2023
 
 - **[Fact Ranking over Large-Scale Knowledge Graphs with Reasoning Embedding Models](http://sites.computer.org/debull/A23june/p124.pdf)**. Hongyu Ren, Ali Mousavi, Anil Pacaci, Shihabur R. Chowdhury, Jason Mohoney, Ihab F. Ilyas, **Yunyao Li**, Theodoros Rekatsinas. In _Data Engineering Bulletin_ June 2023 (Special Issue on Graph Neural Networks)
