@@ -17,9 +17,13 @@ author_profile: true
 ## Professional Services 
 Since 2018
 
+### 2023
+- Member, Editorial Board, Computer Speech and Language
+- Member, Apple Ph.D. Fellowship Selection Committee
 
 ### 2022
-
+- Member, Editorial Board, Computer Speech and Language
+- Member, Apple Ph.D. Fellowship Selection Committee 
 - Co-chair, EMNLP'2022 Inaugural Industry Track 
 - Advisor, NAACL'2022 Industry Track 
 - Co-chair, NAACL'2022 Workshops
@@ -28,7 +32,7 @@ Since 2018
 - Action Editor, Transactions of the Association for Computational Linguistics
 
 ### 2021
-
+- Member, Editorial Board, Computer Speech and Language
 - Co-chair, Industry Track, NAACL'2021
 - Senior Area Chair, ACL-IJCNLP 2021 (Information Extraction)
 - Senior Program Committee member, AAAI 2021
