@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yunyao Li"
   avatar           : "YunyaoLi_SQ.jpg"
-  bio              : "Head of Machine Learning, Apple Knowledge Platform | ACM Distinguished Member | Ex-IBM Research"
+  bio              : "Director of Machine Learning, Adobe Experience Platform | ACM Distinguished Member | Ex-Apple, IBM Research"
   location         : "San Jose, CA"
-  employer         : "Apple"
+  employer         : "Adobe"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=u5LmeasAAAAJ"
-  email            : "firstnamelastname@apple.com"
+  email            : "firstnamel@adobe.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
