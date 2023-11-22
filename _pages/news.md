@@ -4,6 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+- __October 23, 2023__ I joined Adobe as Director of Machine Learning for the Adobe Experience Platform team ([LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7124817433143496704/))
 - __October 2023__ Multiple paper acceptance at EMNLP'2023! [link](https://www.linkedin.com/posts/yunyao-li_yunyao-li-on-x-activity-7116536287704084480-PdPz)
 - __October 2023__ We will be hosting **Data Science with Human-in-the-Loop Workshop** at NAACL'2023!
 - __August 2023__ Updated tutorial on Meaning Representation at IJCAI. [link](https://universalpropositions.github.io/up_event#ijcai-2023)
