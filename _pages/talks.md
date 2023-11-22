@@ -8,10 +8,11 @@ author_profile: true
 ## Invited Talks, Keynote Speeches, Panels, and Tutorials 
 
 ### 2023
-
+- Invited talk: "**The Role of Patterns in the Era of Large Language Models  - Initial Learnings from Constructing, Growing and Serving Large Knowledge Graphs**", Washington University in St. Luis, November 2023
+- Invited talk: "**The Role of Patterns in the Era of Large Language Models  - Initial Learnings from Constructing, Growing and Serving Large Knowledge Graphs**", University of Michigan - Ann Arbor - EECS595, November 2023
 - Tutorial: “**Meaning Representations for Natural Languages: Design, Models and Applications**”, IJCAI’22, August 2023 [slides](https://universalpropositions.github.io/up_event#ijcai-2023)
-- Keynote talk: "**Building, Growing and Serving Large Knowledge Graphs with Human-in-the-Loop**", HILDA'2023 ([Workshop on Human-In-the-Loop Data Analytics](https://hilda.io/2023/)), Co-located with SIGMOD 2023, June 2023 [slides](https://www.slideshare.net/YunyaoLi/building-growing-and-serving-large-knowledge-graphs-with-humanintheloop)
-- Invited talk: "**Building, Growing and Serving Large Knowledge Graphs with Human-in-the-Loop**", Tsinghua University [slides](https://www.slideshare.net/YunyaoLi/building-growing-and-serving-large-knowledge-graphs-with-humanintheloop)
+- Keynote talk: "**Building, Growing and Serving Large Knowledge Graphs with Human-in-the-Loop**", HILDA'2023 ([Workshop on Human-In-the-Loop Data Analytics](https://hilda.io/2023/)), Co-located with SIGMOD 2023, June 2023 [slides](https://www.slideshare.net/YunyaoLi/building-growing-and-serving-large-knowledge-graphs-with-humanintheloop), June 2023
+- Invited talk: "**Building, Growing and Serving Large Knowledge Graphs with Human-in-the-Loop**", Tsinghua University [slides](https://www.slideshare.net/YunyaoLi/building-growing-and-serving-large-knowledge-graphs-with-humanintheloop), June 2023
 
 ### 2022
 
