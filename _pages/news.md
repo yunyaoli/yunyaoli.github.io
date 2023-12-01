@@ -4,6 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+- __November 30, 2023__ My latest book "**Natural Language Interface to Databases**" co-authored with the last [Prof. Drago Radev](https://en.wikipedia.org/wiki/Dragomir_R._Radev) and [Prof. Davood Rafiei](http://webdocs.cs.ualberta.ca/~drafiei/) is now published by Springer Nature([Twitter Post](https://twitter.com/yunyao_li/status/1730244405657825575)). Available on [Springer Nature](https://link.springer.com/book/10.1007/978-3-031-45043-3), [Amazon](https://www.amazon.com/Language-Interfaces-Databases-Synthesis-Management/dp/3031450426/ref=sr_1_1?crid=3VFCFURX5B2S6&keywords=Natural+Language+Interfaces+to+Databases&qid=1701441183&sprefix=natural+language+interfaces+to+databases%2Caps%2C162&sr=8-1) and [Barns & Noble](https://www.barnesandnoble.com/w/book/1144006793?ean=9783031450433). 
 - __October 23, 2023__ I joined Adobe as Director of Machine Learning for the Adobe Experience Platform team ([LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7124817433143496704/))
 - __October 2023__ Multiple paper acceptance at EMNLP'2023! [link](https://www.linkedin.com/posts/yunyao-li_yunyao-li-on-x-activity-7116536287704084480-PdPz)
 - __October 2023__ We will be hosting **Data Science with Human-in-the-Loop Workshop** at NAACL'2023!
