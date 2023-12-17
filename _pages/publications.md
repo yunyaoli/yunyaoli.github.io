@@ -13,13 +13,19 @@ redirect_from:
 - **[Natural Language Interfaces to Databases](https://www.barnesandnoble.com/w/book/1144006793?ean=9783031450433)** **Yunyao Li**, Dragomir Radev, and Davood Rafiei. _Springer Nature_. November 2023 [Free Version](https://nlidb.github.io/book/) 
 
 ### Refereed Conference/Journal Articles
+### 2024
+- **Enhancing Machine Learning Translation Experience with Multilingual Knowledge Graphs**. Simone Conia, Min Li, Daniel Lee, Umar Farooq Minhas, Ihab Ilyas, **Yunyao Li**. To appear in _AAAI (Demonstration Track)_ 2024
+
+
 
 ### 2023
-- **Increasing Coverage and Precision of Textual Information in Multilingual Knowledge Graphs**. Simone Conia, Min Li, Daniel Lee, Umar Farooq Minhas, Ihab Ilyas, **Yunyao Li**. To appear in _EMNLP_ 2023
+- **Increasing Coverage and Precision of Textual Information in Multilingual Knowledge Graphs**. Simone Conia, Min Li, Daniel Lee, Umar Farooq Minhas, Ihab Ilyas, **Yunyao Li**. In _EMNLP_ 2023
 
-- **Beyond Labels: Empowering Human Annotators with Natural Language Explanations through a Novel Active-Learning Architecture**. Bingsheng Yao, Ishan Jindal, Lucian Popa, Yannis Katsis, Sayan Ghosh, Lihong He, Yuxuan Lu, Shashank Srivastava, **Yunyao Li**, James Hendler, Dakuo Wang. To appear in _EMNLP (finding)_ 2023
 
-- **FLEEK: Factual Error Detection and Correction with Evidence Retrieved from External Knowledge**.Farima Fatahi Bayat, Kun Qian, Benjamin Han, Yisi Sang, Anton Belyi, Samira Khorshidi, Fei Wu, Ihab F. Ilyas, **Yunyao Li**. To appear in _EMNLP (Demonstration Track)_ 2023
+- **Beyond Labels: Empowering Human Annotators with Natural Language Explanations through a Novel Active-Learning Architecture**. Bingsheng Yao, Ishan Jindal, Lucian Popa, Yannis Katsis, Sayan Ghosh, Lihong He, Yuxuan Lu, Shashank Srivastava, **Yunyao Li**, James Hendler, Dakuo Wang. In _EMNLP (finding)_ 2023
+
+- **FLEEK: Factual Error Detection and Correction with Evidence Retrieved from External Knowledge**.Farima Fatahi Bayat, Kun Qian, Benjamin Han, Yisi Sang, Anton Belyi, Samira Khorshidi, Fei Wu, Ihab F. Ilyas, **Yunyao Li**. In _EMNLP (Demonstration Track)_ 2023
+- 
 - **[When to Use What: An In-Depth Comparative Empirical Analysis of OpenIE Systems for Downstream Applications](https://aclanthology.org/2023.acl-long.53.pdf)**. Kevin Song Pei, Ishan Jindal, Kevin Chen-Chuan Chang, ChengXiang Zhai and **Yunyao Li**. In _ACL_ 2023
 
 - **[Fact Ranking over Large-Scale Knowledge Graphs with Reasoning Embedding Models](http://sites.computer.org/debull/A23june/p124.pdf)**. Hongyu Ren, Ali Mousavi, Anil Pacaci, Shihabur R. Chowdhury, Jason Mohoney, Ihab F. Ilyas, **Yunyao Li**, Theodoros Rekatsinas. In _Data Engineering Bulletin_ June 2023 (Special Issue on Graph Neural Networks)
