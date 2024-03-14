@@ -15,6 +15,7 @@ redirect_from:
 ### Refereed Conference/Journal Articles
 ### 2024
 - **Entity Disambiguation via Fusion Entity Decoding**. Junxiong Wang, Ali Mousavi, Omar Attia, Saloni Potdar, Alexander M Rush, Umar Farooq Minhas, **Yunyao Li**. To appear in _NAACL_ 2024
+- **Construction of Paired Knowledge Graph - Text Datasets Informed by Cyclic Evaluation**. Ali Mousavi, Xin Zhan, He Bai, Peng Shi, Theo Rekatsinas, Benjamin Han,**Yunyao Li**, Jeff Pound, Josh Susskind, Natalie Schluter, Ihab F. Ilyas, Navdeep Jaitly. To appear in _COLING_ 2024 
 - **Enhancing Machine Learning Translation Experience with Multilingual Knowledge Graphs**. Simone Conia, Min Li, Daniel Lee, Umar Farooq Minhas, Ihab Ilyas, **Yunyao Li**. In _AAAI (Demonstration Track)_ 2024
 
 
