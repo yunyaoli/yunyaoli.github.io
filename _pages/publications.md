@@ -14,13 +14,13 @@ redirect_from:
 
 ### Refereed Conference/Journal Articles
 ### 2024
-- **Enhancing Machine Learning Translation Experience with Multilingual Knowledge Graphs**. Simone Conia, Min Li, Daniel Lee, Umar Farooq Minhas, Ihab Ilyas, **Yunyao Li**. To appear in _AAAI (Demonstration Track)_ 2024
+- **Entity Disambiguation via Fusion Entity Decoding**. Junxiong Wang, Ali Mousavi, Omar Attia, Saloni Potdar, Alexander M Rush, Umar Farooq Minhas, **Yunyao Li**. To appear in _NAACL_ 2024
+- **Enhancing Machine Learning Translation Experience with Multilingual Knowledge Graphs**. Simone Conia, Min Li, Daniel Lee, Umar Farooq Minhas, Ihab Ilyas, **Yunyao Li**. In _AAAI (Demonstration Track)_ 2024
 
 
 
 ### 2023
 - **Increasing Coverage and Precision of Textual Information in Multilingual Knowledge Graphs**. Simone Conia, Min Li, Daniel Lee, Umar Farooq Minhas, Ihab Ilyas, **Yunyao Li**. In _EMNLP_ 2023
-
 
 - **Beyond Labels: Empowering Human Annotators with Natural Language Explanations through a Novel Active-Learning Architecture**. Bingsheng Yao, Ishan Jindal, Lucian Popa, Yannis Katsis, Sayan Ghosh, Lihong He, Yuxuan Lu, Shashank Srivastava, **Yunyao Li**, James Hendler, Dakuo Wang. In _EMNLP (finding)_ 2023
 
