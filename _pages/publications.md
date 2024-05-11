@@ -15,9 +15,9 @@ redirect_from:
 ### Refereed Articles
 ### 2024
 - **Evaluation and Continual Improvement for an Enterprise AI Assistant**. Akash V. Maharaj, Kun Qian, Uttaran Bhattacharya, Sally Fang, Horia Galatanu, Manas Garg, Rachel Hanessian, Nishant Kapoor, Ken Russell, Shivakumar Vaithyanathan, and **Yunyao Li**. To appear in _DaSH Workshop NAACL_ 2024
-- **Entity Disambiguation via Fusion Entity Decoding**. Junxiong Wang, Ali Mousavi, Omar Attia, Saloni Potdar, Alexander M Rush, Umar Farooq Minhas, **Yunyao Li**. To appear in _NAACL_ 2024
-- **Construction of Paired Knowledge Graph - Text Datasets Informed by Cyclic Evaluation**. Ali Mousavi, Xin Zhan, He Bai, Peng Shi, Theo Rekatsinas, Benjamin Han,**Yunyao Li**, Jeff Pound, Josh Susskind, Natalie Schluter, Ihab F. Ilyas, Navdeep Jaitly. To appear in _COLING_ 2024 
-- **Enhancing Machine Learning Translation Experience with Multilingual Knowledge Graphs**. Simone Conia, Min Li, Daniel Lee, Umar Farooq Minhas, Ihab Ilyas, **Yunyao Li**. In _AAAI (Demonstration Track)_ 2024
+- **[Entity Disambiguation via Fusion Entity Decoding](https://arxiv.org/abs/2404.01626)**. Junxiong Wang, Ali Mousavi, Omar Attia, Saloni Potdar, Alexander M Rush, Umar Farooq Minhas, **Yunyao Li**. To appear in _NAACL_ 2024
+- **[Construction of Paired Knowledge Graph - Text Datasets Informed by Cyclic Evaluation](https://arxiv.org/abs/2309.11669)**. Ali Mousavi, Xin Zhan, He Bai, Peng Shi, Theo Rekatsinas, Benjamin Han,**Yunyao Li**, Jeff Pound, Josh Susskind, Natalie Schluter, Ihab F. Ilyas, Navdeep Jaitly. To appear in _COLING_ 2024 
+- **[Enhancing Machine Learning Translation Experience with Multilingual Knowledge Graphs](https://ojs.aaai.org/index.php/AAAI/article/view/30563)**. Simone Conia, Min Li, Daniel Lee, Umar Farooq Minhas, Ihab Ilyas, **Yunyao Li**. In _AAAI (Demonstration Track)_ 2024
 
 
 
@@ -41,6 +41,9 @@ redirect_from:
 ### 2022
 
 - **[Label Sleuth: From Unlabeled Text to a Classifier in a Few Hours](https://aclanthology.org/2022.emnlp-demos.16/)**. Eyal Shnarch, Alon Halfon, Ariel Gera, Marina Danilevsky, Yannis Katsis, Leshem Choshen, Martin Santillan Cooper, Dina Epelboim, Zheng Zhang, Dakuo Wang, Lucy Yip, Liat Ein-Dor, Lena Dankin, Ilya Shnayderman, Ranit Aharonov, **Yunyao Li**, Naftali Liberman, Philip Levin Slesarev, Gwilym Newton, Shila Ofek-Koifman, Noam Slonim, Yoav Katz. In _EMNLP (Demonstration Track)_ 2022
+
+- **[Improving Human Annotation Effectiveness for Fact Collection by Identifying the Most Relevant Answers](https://aclanthology.org/2022.dash-1.10/)**
+Pranav Kamath, Yiwen Sun, Thomas Semere, Adam Green, Scott Manley, Xiaoguang Qi, Kun Qian, Yunyao Li and Mina Farid. In _DaSH Workshop EMNLP_ 2024
 
 - **[Label Definitions Improve Semantic Role Labeling](https://aclanthology.org/2022.naacl-main.411/)**. Harry Zhang, Ishan Jindal, and **Yunyao Li**. In _NAACL_ 2022
 
