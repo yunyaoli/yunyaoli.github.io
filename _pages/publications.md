@@ -12,8 +12,9 @@ redirect_from:
 - **[Natural Language Data Management and Interfaces](https://www.morganclaypool.com/doi/10.2200/S00866ED1V01Y201807DTM049).** **Yunyao Li** and Davood Rafiei. _Morgan Claypool Publisher_. 2018
 - **[Natural Language Interfaces to Databases](https://www.barnesandnoble.com/w/book/1144006793?ean=9783031450433)** **Yunyao Li**, Dragomir Radev, and Davood Rafiei. _Springer Nature_. November 2023 [Free Version](https://nlidb.github.io/book/) 
 
-### Refereed Conference/Journal Articles
+### Refereed Articles
 ### 2024
+- **Evaluation and Continual Improvement for an Enterprise AI Assistant**. Akash V. Maharaj, Kun Qian, Uttaran Bhattacharya, Sally Fang, Horia Galatanu, Manas Garg, Rachel Hanessian, Nishant Kapoor, Ken Russell, Shivakumar Vaithyanathan, and **Yunyao Li**. To appear in _DaSH Workshop NAACL_ 2024
 - **Entity Disambiguation via Fusion Entity Decoding**. Junxiong Wang, Ali Mousavi, Omar Attia, Saloni Potdar, Alexander M Rush, Umar Farooq Minhas, **Yunyao Li**. To appear in _NAACL_ 2024
 - **Construction of Paired Knowledge Graph - Text Datasets Informed by Cyclic Evaluation**. Ali Mousavi, Xin Zhan, He Bai, Peng Shi, Theo Rekatsinas, Benjamin Han,**Yunyao Li**, Jeff Pound, Josh Susskind, Natalie Schluter, Ihab F. Ilyas, Navdeep Jaitly. To appear in _COLING_ 2024 
 - **Enhancing Machine Learning Translation Experience with Multilingual Knowledge Graphs**. Simone Conia, Min Li, Daniel Lee, Umar Farooq Minhas, Ihab Ilyas, **Yunyao Li**. In _AAAI (Demonstration Track)_ 2024
