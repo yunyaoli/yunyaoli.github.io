@@ -9,8 +9,8 @@ redirect_from:
 {% include base_path %}
 
 ### Book
-- **[Natural Language Data Management and Interfaces](https://www.morganclaypool.com/doi/10.2200/S00866ED1V01Y201807DTM049).** **Yunyao Li** and Davood Rafiei. _Morgan Claypool Publisher_. 2018
 - **[Natural Language Interfaces to Databases](https://www.barnesandnoble.com/w/book/1144006793?ean=9783031450433)** **Yunyao Li**, Dragomir Radev, and Davood Rafiei. _Springer Nature_. November 2023 [Free Version](https://nlidb.github.io/book/) 
+- **[Natural Language Data Management and Interfaces](https://www.morganclaypool.com/doi/10.2200/S00866ED1V01Y201807DTM049).** **Yunyao Li** and Davood Rafiei. _Morgan Claypool Publisher_. 2018
 
 ### Refereed Articles
 ### 2024
