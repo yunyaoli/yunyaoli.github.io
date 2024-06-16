@@ -14,7 +14,7 @@ redirect_from:
 
 ### Refereed Articles
 ### 2024
-- **Time Sensitive Knowledge Editing through Efficient Finetuning**. Xiou Ge, Ali Mousavi, Edouard Grave, Armand Joulin, Kun Qian, Benjamin Han, Mostafa Arefiyan, **Yunyao Li**. To appear in _ACL_ 2024
+- **[Time Sensitive Knowledge Editing through Efficient Finetuning](https://arxiv.org/abs/2406.04496)**. Xiou Ge, Ali Mousavi, Edouard Grave, Armand Joulin, Kun Qian, Benjamin Han, Mostafa Arefiyan, **Yunyao Li**. To appear in _ACL_ 2024
 - **Evaluation and Continual Improvement for an Enterprise AI Assistant**. Akash V. Maharaj, Kun Qian, Uttaran Bhattacharya, Sally Fang, Horia Galatanu, Manas Garg, Rachel Hanessian, Nishant Kapoor, Ken Russell, Shivakumar Vaithyanathan, and **Yunyao Li**. To appear in _DaSH Workshop NAACL_ 2024
 - **[Entity Disambiguation via Fusion Entity Decoding](https://arxiv.org/abs/2404.01626)**. Junxiong Wang, Ali Mousavi, Omar Attia, Saloni Potdar, Alexander M Rush, Umar Farooq Minhas, **Yunyao Li**. To appear in _NAACL_ 2024
 - **[Construction of Paired Knowledge Graph - Text Datasets Informed by Cyclic Evaluation](https://arxiv.org/abs/2309.11669)**. Ali Mousavi, Xin Zhan, He Bai, Peng Shi, Theo Rekatsinas, Benjamin Han,**Yunyao Li**, Jeff Pound, Josh Susskind, Natalie Schluter, Ihab F. Ilyas, Navdeep Jaitly. In _COLING_ 2024 
