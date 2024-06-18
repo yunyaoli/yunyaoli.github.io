@@ -7,7 +7,7 @@ author_profile: true
 
 ## Invited Talks, Keynote Speeches, Panels, and Tutorials 
 ### 2024
-- Tutorial: "**Meaning Representations for Natural Languages: Design, Models and Applications**" [slides](https://www.slideshare.net/slideshow/meaning-representations-for-natural-languages-design-models-and-applications-pdf/269747868)
+- Tutorial: "**Meaning Representations for Natural Languages: Design, Models and Applications**": LREC-COLING'2024 [slides](https://www.slideshare.net/slideshow/meaning-representations-for-natural-languages-design-models-and-applications-pdf/269747868)
 
 
 ### 2023
