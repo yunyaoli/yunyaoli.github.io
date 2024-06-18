@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ## Invited Talks, Keynote Speeches, Panels, and Tutorials 
+### 2024
+- Tutorial: "**Meaning Representations for Natural Languages: Design, Models and Applications**" [slides](https://www.slideshare.net/slideshow/meaning-representations-for-natural-languages-design-models-and-applications-pdf/269747868)
+
 
 ### 2023
 - Keynote talk: "**The Role of Patterns in the Era of Large Language Models  - Initial Learnings from Constructing, Growing and Serving Large Knowledge Graphs**", PAN-DL Workshop at EMNLP 2023, December 2023 [slides](https://www.slideshare.net/YunyaoLi/the-role-of-patterns-in-the-era-of-large-language-models) 
