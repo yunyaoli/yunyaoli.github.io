@@ -11,6 +11,7 @@ author_profile: true
 
 **Adobe Experience Platform** I'm driving [AI Assistant](https://business.adobe.com/products/sensei/ai-assistant.html) in Adobe Experience Platform. We are bringing the power of Generative AI and Knowledge Graph to enterprise systems where accuracy, privacy, trust, governance and extensibility are non-negotiable. Our work will transform the way companies approach audiences, journeys and personalization at scale. 
 
+**Active Projects @Apple** that I perviously led:
 **Apple Knowlege Platform**: I led the building of the next-generation of machine learning solutions in the Knowledge Platform at Apple and help power features including Siri and Spotlight. The technology we built is redefining how billion of people use their computers and mobile devices to search and find what they are looking for. In particular, I led the efforts on growing and serving open domain knowledge graph and drove a new agenda on LLM+KG. More details about some of the work can be found [here](https://machinelearning.apple.com/research/open-domain-knowledgegraphs).
 
 **Active Projects @IBM Research** that I perviously started and led: 
