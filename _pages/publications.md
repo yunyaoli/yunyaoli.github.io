@@ -14,9 +14,13 @@ redirect_from:
 
 ### Refereed Articles
 ### 2024
-- **[Time Sensitive Knowledge Editing through Efficient Finetuning](https://arxiv.org/abs/2406.04496)**. Xiou Ge, Ali Mousavi, Edouard Grave, Armand Joulin, Kun Qian, Benjamin Han, Mostafa Arefiyan, **Yunyao Li**. To appear in _ACL_ 2024
-- **Evaluation and Continual Improvement for an Enterprise AI Assistant**. Akash V. Maharaj, Kun Qian, Uttaran Bhattacharya, Sally Fang, Horia Galatanu, Manas Garg, Rachel Hanessian, Nishant Kapoor, Ken Russell, Shivakumar Vaithyanathan, and **Yunyao Li**. To appear in _DaSH Workshop NAACL_ 2024
-- **[Entity Disambiguation via Fusion Entity Decoding](https://arxiv.org/abs/2404.01626)**. Junxiong Wang, Ali Mousavi, Omar Attia, Saloni Potdar, Alexander M Rush, Umar Farooq Minhas, **Yunyao Li**. To appear in _NAACL_ 2024
+- **[AGRaME: Any-Granularity Ranking with Multi-Vector Embeddings](https://arxiv.org/abs/2405.15028)**. Revanth Gangi Reddy, Omar Attia, Yunyao Li, Heng Ji, Saloni Potdar. In submission. 
+- **[MuRAR: A Simple and Effective Multimodal Retrieval and Answer Refinement Framework for Multimodal Question Answering](https://www.arxiv.org/abs/2408.08521)**. Zhengyuan Zhu, Daniel Lee, Hong Zhang, Sai Sree Harsha, Loic Feujio, Akash Maharaj, Yunyao Li. In submission. 
+- **[RETAIN: Interactive Tool for Regression Testing Guided LLM Migration](https://www.arxiv.org/abs/2409.03928)**. Tanay Dixit, Daniel Lee, Sally Fang, Sai Sree Harsha, Anirudh Sureshan, Akash Maharaj, Yunyao Li. In submission.
+- **[Time Sensitive Knowledge Editing through Efficient Finetuning](https://arxiv.org/abs/2406.04496)**. Xiou Ge, Ali Mousavi, Edouard Grave, Armand Joulin, Kun Qian, Benjamin Han, Mostafa Arefiyan, **Yunyao Li**. In _ACL_ 2024
+- **[Evaluation and Continual Improvement for an Enterprise AI Assistant](https://aclanthology.org/2024.dash-1.3/)**. Akash V. Maharaj, Kun Qian, Uttaran Bhattacharya, Sally Fang, Horia Galatanu, Manas Garg, Rachel Hanessian, Nishant Kapoor, Ken Russell, Shivakumar Vaithyanathan, and **Yunyao Li**. In _DaSH Workshop NAACL_ 2024
+- **[APE: Active Learning-based Tooling for Finding Informative Few-shot Examples for LLM-based Entity Matching](https://arxiv.org/abs/2408.04637)**. Kun Qian, Yisi Sang, Farima Fatahi Bayat, Anton Belyi, Xianqi Chu, Yash Govind, Samira Khorshidi, Rahul Khot, Katherine Luna, Azadeh Nikfarjam, Xiaoguang Qi, Fei Wu, Xianhan Zhang, Yunyao Li. In _DaSH Workshop NAACL_ 2024
+- **[Entity Disambiguation via Fusion Entity Decoding](https://arxiv.org/abs/2404.01626)**. Junxiong Wang, Ali Mousavi, Omar Attia, Saloni Potdar, Alexander M Rush, Umar Farooq Minhas, **Yunyao Li**. In _NAACL_ 2024
 - **[Construction of Paired Knowledge Graph - Text Datasets Informed by Cyclic Evaluation](https://arxiv.org/abs/2309.11669)**. Ali Mousavi, Xin Zhan, He Bai, Peng Shi, Theo Rekatsinas, Benjamin Han,**Yunyao Li**, Jeff Pound, Josh Susskind, Natalie Schluter, Ihab F. Ilyas, Navdeep Jaitly. In _COLING_ 2024 
 - **[Enhancing Machine Learning Translation Experience with Multilingual Knowledge Graphs](https://ojs.aaai.org/index.php/AAAI/article/view/30563)**. Simone Conia, Min Li, Daniel Lee, Umar Farooq Minhas, Ihab Ilyas, **Yunyao Li**. In _AAAI (Demonstration Track)_ 2024
 
