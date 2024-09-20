@@ -50,7 +50,7 @@ redirect_from:
 - **[Label Sleuth: From Unlabeled Text to a Classifier in a Few Hours](https://aclanthology.org/2022.emnlp-demos.16/)**. Eyal Shnarch, Alon Halfon, Ariel Gera, Marina Danilevsky, Yannis Katsis, Leshem Choshen, Martin Santillan Cooper, Dina Epelboim, Zheng Zhang, Dakuo Wang, Lucy Yip, Liat Ein-Dor, Lena Dankin, Ilya Shnayderman, Ranit Aharonov, **Yunyao Li**, Naftali Liberman, Philip Levin Slesarev, Gwilym Newton, Shila Ofek-Koifman, Noam Slonim, Yoav Katz. In _EMNLP (Demonstration Track)_ 2022
 
 - **[Improving Human Annotation Effectiveness for Fact Collection by Identifying the Most Relevant Answers](https://aclanthology.org/2022.dash-1.10/)**
-Pranav Kamath, Yiwen Sun, Thomas Semere, Adam Green, Scott Manley, Xiaoguang Qi, Kun Qian, Yunyao Li and Mina Farid. In _DaSH Workshop EMNLP_ 2024
+Pranav Kamath, Yiwen Sun, Thomas Semere, Adam Green, Scott Manley, Xiaoguang Qi, Kun Qian, **Yunyao Li** and Mina Farid. In _DaSH Workshop EMNLP_ 2024
 
 - **[Label Definitions Improve Semantic Role Labeling](https://aclanthology.org/2022.naacl-main.411/)**. Harry Zhang, Ishan Jindal, and **Yunyao Li**. In _NAACL_ 2022
 
