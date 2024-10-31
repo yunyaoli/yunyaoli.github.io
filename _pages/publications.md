@@ -21,7 +21,7 @@ redirect_from:
 - **[AGRaME: Any-Granularity Ranking with Multi-Vector Embeddings](https://arxiv.org/abs/2405.15028)**. Revanth Gangi Reddy, Omar Attia, **Yunyao Li**, Heng Ji, Saloni Potdar. To appear in _EMNLP_ 2024.
 - **Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs**. Simone Conia, Daniel Lee, Min Li, Umar Farooq Minhas, Saloni Potdar, **Yunyao Li**. To appear in _EMNLP_ 2024.
 - **StorySpark: Expert-Annotated QA Pairs with Real-World Knowledge for Children Storytelling**. Jiaju Chen, Yuxuan Lu, Shao Zhang, Bingsheng Yao, Yuanzhe Dong, Ying Xu, **Yunyao Li**, Qianwen Wang, Dakuo Wang, Yuling Sun. To appear in _EMNLP_ 2024.
-- **ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA datasets with Large Language Models**.
+- **[ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA datasets with Large Language Models](https://arxiv.org/abs/2408.05948)**.
 Ronak Pradeep, Daniel Lee, Ali Mousavi, Jeffrey Pound, Yisi Sang, Jimmy Lin, Ihab Ilyas, Saloni Potdar, Mostafa Arefiyan, **Yunyao Li**. To appear in _EMNLP (Industry Track)_ 2024
 - **[MuRAR: A Simple and Effective Multimodal Retrieval and Answer Refinement Framework for Multimodal Question Answering](https://www.arxiv.org/abs/2408.08521)**. Zhengyuan Zhu, Daniel Lee, Hong Zhang, Sai Sree Harsha, Loic Feujio, Akash Maharaj, **Yunyao Li**. In submission. 
 - **[RETAIN: Interactive Tool for Regression Testing Guided LLM Migration](https://www.arxiv.org/abs/2409.03928)**. Tanay Dixit, Daniel Lee, Sally Fang, Sai Sree Harsha, Anirudh Sureshan, Akash Maharaj, **Yunyao Li**. In submission.
