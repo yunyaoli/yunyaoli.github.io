@@ -14,8 +14,8 @@ redirect_from:
 
 ### Refereed Articles
 ### 2025
-- **ECLAIR: Enhanced Clarification for Interactive Responses**. Murzaku, Zifan Liu, Mehrab Tanjim, Vaishnavi Muppala, Xiang Chen, Yunyao Li. To appear in _IAAI_ 2025
-- **Evaluation and Incident Prevention in an Enterprise AI Assistant**. Akash V Maharaj, David Arbour, Daniel Lee, Uttaran Bhattacharya, Anup Rao, Austin Zane, Kun Qian, Yunyao Li. To appear in _IAAI_ 2025
+- **ECLAIR: Enhanced Clarification for Interactive Responses**. Murzaku, Zifan Liu, Mehrab Tanjim, Vaishnavi Muppala, Xiang Chen, **Yunyao Li**. To appear in _IAAI_ 2025
+- **Evaluation and Incident Prevention in an Enterprise AI Assistant**. Akash V Maharaj, David Arbour, Daniel Lee, Uttaran Bhattacharya, Anup Rao, Austin Zane, Kun Qian, **Yunyao Li**. To appear in _IAAI_ 2025
 
 ### 2024
 - **[AGRaME: Any-Granularity Ranking with Multi-Vector Embeddings](https://arxiv.org/abs/2405.15028)**. Revanth Gangi Reddy, Omar Attia, **Yunyao Li**, Heng Ji, Saloni Potdar. To appear in _EMNLP_ 2024.
