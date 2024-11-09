@@ -19,7 +19,7 @@ author_profile: true
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <td style="vertical-align: top; width: 66.9539%; height: 314px;">
-<p>**Apple Knowlege Platform**: I led the building of the next-generation of machine learning solutions in the Knowledge Platform at Apple and help power features including Siri and Spotlight. The technology we built is redefining how billion of people use their computers and mobile devices to search and find what they are looking for. In particular, I led the efforts on growing and serving open domain knowledge graph and drove a new agenda on LLM+KG. More details about some of the work can be found [here](https://machinelearning.apple.com/research/open-domain-knowledgegraphs).
+<p><strong><span style="font-size: 14pt;color: #008080;">Apple Knowlege Platform</span></strong>: I led the building of the next-generation of machine learning solutions in the Knowledge Platform at Apple and help power features including Siri and Spotlight. The technology we built is redefining how billion of people use their computers and mobile devices to search and find what they are looking for. In particular, I led the efforts on growing and serving open domain knowledge graph and drove a new agenda on LLM+KG. More details about some of the work can be found [here](https://machinelearning.apple.com/research/open-domain-knowledgegraphs).
 </p>
 </td>
 </tbody>
