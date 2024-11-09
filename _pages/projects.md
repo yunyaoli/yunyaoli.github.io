@@ -9,7 +9,7 @@ author_profile: true
 
 ## Active Projects 
 
-**Adobe Experience Platform** I'm driving [AI Assistant](https://business.adobe.com/products/sensei/ai-assistant.html) in Adobe Experience Platform. We are bringing the power of Generative AI and Knowledge Graph to enterprise systems where accuracy, privacy, trust, governance and extensibility are non-negotiable. Our work will transform the way companies approach audiences, journeys and personalization at scale. 
+**Adobe Experience Platform** I'm driving the applied R&D for [AI Assistant in Adobe Experience Platform](https://business.adobe.com/products/sensei/ai-assistant.html) and its underlying GenAI platform. We are bringing the power of Generative AI and Knowledge Graph to enterprise systems where accuracy, privacy, trust, governance and extensibility are non-negotiable. Our work will transform the way companies approach audiences, journeys and personalization at scale. 
 
 **News Coverage:** 
 - 06/18/2024 - Bloomberg Tech Disruptors: [link](https://www.bloomberg.com/news/audio/2024-06-18/adobe-s-chakravarthy-on-genstudio-ai-assistant-tech-disruptors?sref=vBmVq1fJ)
