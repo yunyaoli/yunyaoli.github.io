@@ -27,6 +27,9 @@ author_profile: true
 
 ### Selected External Technical Recognition and Awards
 
+- **Outstanding Paper Award**, EMNLP Conference (2024) ([Twitter Post](https://twitter.com/yunyao_li/status/1857265049816961315))
+  - [Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs](https://t.co/m6Ex3bG8Vc)
+
 - **Best Demo Award**, International Semantic Web Conference (2020) [announcement](https://twitter.com/iswc_conf/status/1324766153366011908)
   - _[Ontology Mediated Information Extraction with MASTRO SYSTEM-T](http://ceur-ws.org/Vol-2721/paper564.pdf)_}
 
