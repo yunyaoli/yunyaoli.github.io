@@ -14,6 +14,8 @@ redirect_from:
 
 ### Refereed Articles
 ### 2025
+- **ECLAIR: Enhanced Clarification for Interactive Responses in an Enterprise AI Assistant**. John Murzaku, Zifan Liu, Vaishnavi Muppala, Mehrab Tanjim, Xiang Chen, Yunyao Li. To appear in _AAAI (Demonstration Track)_ 2025
+- **Rewind and Render: Towards Factually Accurate Text-to-Video Generation with Distilled Knowledge Retrieval**. Daniel Lee, Arjun Chandra, Yang Zhou, Yunyao Li, Simone Conia. To appear in _AAAI (Demonstration Track)_ 2025
 - **ECLAIR: Enhanced Clarification for Interactive Responses**. Murzaku, Zifan Liu, Mehrab Tanjim, Vaishnavi Muppala, Xiang Chen, **Yunyao Li**. To appear in _IAAI_ 2025
 - **Evaluation and Incident Prevention in an Enterprise AI Assistant**. Akash V Maharaj, David Arbour, Daniel Lee, Uttaran Bhattacharya, Anup Rao, Austin Zane, Kun Qian, **Yunyao Li**. To appear in _IAAI_ 2025
 
