@@ -23,6 +23,7 @@ Since 2018
 
 ### 2024
 - Member, Editorial Board, Computer Speech and Language
+- Co-organizer, Data Science with Human-in-the-Loop (DaSH) Workshop, NAACL'2024
 
 ### 2023
 - Member, Editorial Board, Computer Speech and Language
