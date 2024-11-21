@@ -7,6 +7,7 @@ author_profile: true
 
 ## Invited Talks, Keynote Speeches, Panels, and Tutorials 
 ### 2024
+- Invited panel: ``**Industrial Collaboration and Startups**", CRA-WP Virtual Career Mentoring Workshop Series, November 2024 [link](https://www.linkedin.com/feed/update/urn:li:activity:7262162263350878210/)
 - Tutorial: "**Meaning Representations for Natural Languages: Design, Models and Applications**": LREC-COLING'2024, May 2024 [slides](https://www.slideshare.net/slideshow/meaning-representations-for-natural-languages-design-models-and-applications-pdf/269747868)
 
 
