@@ -201,7 +201,7 @@ Technology_ April 2020
 
 - **[OpinionBlocks: A Crowd-Powered, Self-Improving Interactive Visual Analytic System for Understanding Opinion Text](https://yunyaoli.github.io/files/interact2013_opinionBlock.pdf).** Mengdie Hu, Huahai Yang, Michelle Zhou, Liang Gou, **Yunyao Li**, and Eben Haber. In _INTERACT_ 2013
 
-- **[Adaptive Parser-Centric Text Normalization](https://aclanthology.org/P13-1114/).** Congle Zhang, Tyler Baldwin, Howard Ho, Benny Kimelfeld, **Yunyao Li**. In _ACL_ 2013 (**Best paper nomination**)
+- :medal_sports:**[Adaptive Parser-Centric Text Normalization](https://aclanthology.org/P13-1114/).** Congle Zhang, Tyler Baldwin, Howard Ho, Benny Kimelfeld, **Yunyao Li**. In _ACL_ 2013 (**Best paper nomination**)
 
 - **[Automatic Term Ambiguity Detection](https://aclanthology.org/P13-2140/).** Tyler Baldwin, **Yunyao Li**, Bogdan Alexe, Ioana Roxana Stanoi. In _ACL_ 2013 (short paper)
 
@@ -266,7 +266,7 @@ and Huaiyu Zhu.  _SIGMOD Record_ 37(4) 2008
 
 ### 2005
 
-- **[NaLIX: an Interactive Natural Language Interface for Querying XML](https://yunyaoli.github.io/files/sigmod05-nalix.pdf).** **Yunyao Li**, Huahai Yang, H. V. Jagadish. In _SIGMOD (Demonstration Track)_ 2005 **(Best Demo Award)**
+- :medal_sports:**[NaLIX: an Interactive Natural Language Interface for Querying XML](https://yunyaoli.github.io/files/sigmod05-nalix.pdf).** **Yunyao Li**, Huahai Yang, H. V. Jagadish. In _SIGMOD (Demonstration Track)_ 2005 **(Best Demo Award)**
 
 ### 2004
 
