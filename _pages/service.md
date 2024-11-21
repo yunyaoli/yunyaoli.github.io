@@ -18,6 +18,12 @@ author_profile: true
 ## Professional Services 
 Since 2018
 
+### 2025
+- Co-chair, ACL'2025 Industry Track
+
+### 2024
+- Member, Editorial Board, Computer Speech and Language
+
 ### 2023
 - Member, Editorial Board, Computer Speech and Language
 - Member, Apple Ph.D. Fellowship Selection Committee
