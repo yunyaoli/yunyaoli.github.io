@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
-- :medal_sports:__November 14, 2024__ Our paper [Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs](https://t.co/m6Ex3bG8Vc) won an Outstanding Paper award at EMNLP'2024! ([Twitter Post](https://twitter.com/yunyao_li/status/1857265049816961315))
+- __November 14, 2024__ Our paper [Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs](https://t.co/m6Ex3bG8Vc) won an Outstanding Paper award at EMNLP'2024! ([Twitter Post](https://twitter.com/yunyao_li/status/1857265049816961315))
 - __October 2024__ Multiple paper acceptance at EMNLP'2024! [link](https://twitter.com/yunyao_li/status/1855669427813183942)
 - __June 6, 2024__ [AI Assistant in Adobe Experience Platform](https://business.adobe.com/products/sensei/ai-assistant.html) officially GAed today! ([Twitter Post](https://twitter.com/yunyao_li/status/1798784936784351713))
 - __March 26, 2024__ The project I led at [AI Assistant in Adobe Experience Platform](https://business.adobe.com/products/sensei/ai-assistant.html) got announced on Adobe Summit main stage!([Twitter Post](https://twitter.com/yunyao_li/status/1772686639719915890)) 
