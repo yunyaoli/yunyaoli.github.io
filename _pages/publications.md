@@ -14,6 +14,8 @@ redirect_from:
 
 ### Refereed Articles
 ### 2025
+- **[MuRAR: A Simple and Effective Multimodal Retrieval and Answer Refinement Framework for Multimodal Question Answering](https://www.arxiv.org/abs/2408.08521)**. Zhengyuan Zhu, Daniel Lee, Hong Zhang, Sai Sree Harsha, Loic Feujio, Akash Maharaj, **Yunyao Li**. To appear in _COLING (Demonstration Track)_ 2025. 
+- **MKP-QA : Multi-domain Knowledge-augmented Product Question-Answering with Stochastic Gated Federated Search**. Parshin Shojaee1, Sai Sree Harsha, Dan Luo, Akash Maharaj, Tong Yu, **Yunyao Li**. To appear in _COLING (Industry Track)_ 2025. 
 - **ECLAIR: Enhanced Clarification for Interactive Responses in an Enterprise AI Assistant**. John Murzaku, Zifan Liu, Vaishnavi Muppala, Mehrab Tanjim, Xiang Chen, Yunyao Li. To appear in _AAAI (Demonstration Track)_ 2025
 - **Rewind and Render: Towards Factually Accurate Text-to-Video Generation with Distilled Knowledge Retrieval**. Daniel Lee, Arjun Chandra, Yang Zhou, Yunyao Li, Simone Conia. To appear in _AAAI (Demonstration Track)_ 2025
 - **ECLAIR: Enhanced Clarification for Interactive Responses**. Murzaku, Zifan Liu, Mehrab Tanjim, Vaishnavi Muppala, Xiang Chen, **Yunyao Li**. To appear in _IAAI_ 2025
@@ -23,11 +25,9 @@ redirect_from:
 - **[AGRaME: Any-Granularity Ranking with Multi-Vector Embeddings](https://arxiv.org/abs/2405.15028)**. Revanth Gangi Reddy, Omar Attia, **Yunyao Li**, Heng Ji, Saloni Potdar. In _EMNLP_ 2024.
 - :medal_sports:**[Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs](https://t.co/m6Ex3bG8Vc)**. Simone Conia, Daniel Lee, Min Li, Umar Farooq Minhas, Saloni Potdar, **Yunyao Li**. In _EMNLP_ 2024. [Code](https://t.co/KcqlSFn8ih) (**Outstanding Paper Award**)
   - Addresses ``the challenge of translating culturally-relevant named entities, challenging previously held views about how to translate named entities." 
-
 - **[StorySpark: Expert-Annotated QA Pairs with Real-World Knowledge for Children Storytelling](https://arxiv.org/abs/2311.09756)**. Jiaju Chen, Yuxuan Lu, Shao Zhang, Bingsheng Yao, Yuanzhe Dong, Ying Xu, **Yunyao Li**, Qianwen Wang, Dakuo Wang, Yuling Sun. In _EMNLP_ 2024.
 - **[ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA datasets with Large Language Models](https://arxiv.org/abs/2408.05948)**. Ronak Pradeep, Daniel Lee, Ali Mousavi, Jeffrey Pound, Yisi Sang, Jimmy Lin, Ihab Ilyas, Saloni Potdar, Mostafa Arefiyan, **Yunyao Li**. In _EMNLP (Industry Track)_ 2024
 - **[RETAIN: Interactive Tool for Regression Testing Guided LLM Migration](https://www.arxiv.org/abs/2409.03928)**. Tanay Dixit, Daniel Lee, Sally Fang, Sai Sree Harsha, Anirudh Sureshan, Akash Maharaj, **Yunyao Li**. In _EMNLP (Demonstration Track)_ 2024.
-- **[MuRAR: A Simple and Effective Multimodal Retrieval and Answer Refinement Framework for Multimodal Question Answering](https://www.arxiv.org/abs/2408.08521)**. Zhengyuan Zhu, Daniel Lee, Hong Zhang, Sai Sree Harsha, Loic Feujio, Akash Maharaj, **Yunyao Li**. In submission. 
 - **[Time Sensitive Knowledge Editing through Efficient Finetuning](https://arxiv.org/abs/2406.04496)**. Xiou Ge, Ali Mousavi, Edouard Grave, Armand Joulin, Kun Qian, Benjamin Han, Mostafa Arefiyan, **Yunyao Li**. In _ACL_ 2024
 - **[Evaluation and Continual Improvement for an Enterprise AI Assistant](https://aclanthology.org/2024.dash-1.3/)**. Akash V. Maharaj, Kun Qian, Uttaran Bhattacharya, Sally Fang, Horia Galatanu, Manas Garg, Rachel Hanessian, Nishant Kapoor, Ken Russell, Shivakumar Vaithyanathan, and **Yunyao Li**. In _DaSH Workshop NAACL_ 2024
 - **[APE: Active Learning-based Tooling for Finding Informative Few-shot Examples for LLM-based Entity Matching](https://arxiv.org/abs/2408.04637)**. Kun Qian, Yisi Sang, Farima Fatahi Bayat, Anton Belyi, Xianqi Chu, Yash Govind, Samira Khorshidi, Rahul Khot, Katherine Luna, Azadeh Nikfarjam, Xiaoguang Qi, Fei Wu, Xianhan Zhang, **Yunyao Li**. In _DaSH Workshop NAACL_ 2024
