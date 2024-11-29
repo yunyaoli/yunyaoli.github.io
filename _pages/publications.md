@@ -23,7 +23,7 @@ redirect_from:
 
 ### 2024
 - **[AGRaME: Any-Granularity Ranking with Multi-Vector Embeddings](https://arxiv.org/abs/2405.15028)**. Revanth Gangi Reddy, Omar Attia, **Yunyao Li**, Heng Ji, Saloni Potdar. In _EMNLP_ 2024.
-- :medal_sports:**[Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs](https://t.co/m6Ex3bG8Vc)**. Simone Conia, Daniel Lee, Min Li, Umar Farooq Minhas, Saloni Potdar, **Yunyao Li**. In _EMNLP_ 2024. [Code](https://t.co/KcqlSFn8ih) (**Outstanding Paper Award**)
+- :medal_sports: **[Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs](https://t.co/m6Ex3bG8Vc)**. Simone Conia, Daniel Lee, Min Li, Umar Farooq Minhas, Saloni Potdar, **Yunyao Li**. In _EMNLP_ 2024. [Code](https://t.co/KcqlSFn8ih) (**Outstanding Paper Award**)
   - Addresses ``the challenge of translating culturally-relevant named entities, challenging previously held views about how to translate named entities." 
 - **[StorySpark: Expert-Annotated QA Pairs with Real-World Knowledge for Children Storytelling](https://arxiv.org/abs/2311.09756)**. Jiaju Chen, Yuxuan Lu, Shao Zhang, Bingsheng Yao, Yuanzhe Dong, Ying Xu, **Yunyao Li**, Qianwen Wang, Dakuo Wang, Yuling Sun. In _EMNLP_ 2024.
 - **[ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA datasets with Large Language Models](https://arxiv.org/abs/2408.05948)**. Ronak Pradeep, Daniel Lee, Ali Mousavi, Jeffrey Pound, Yisi Sang, Jimmy Lin, Ihab Ilyas, Saloni Potdar, Mostafa Arefiyan, **Yunyao Li**. In _EMNLP (Industry Track)_ 2024
