@@ -23,7 +23,7 @@ redirect_from:
 
 ### 2024
 - **[AGRaME: Any-Granularity Ranking with Multi-Vector Embeddings](https://arxiv.org/abs/2405.15028)**. Revanth Gangi Reddy, Omar Attia, **Yunyao Li**, Heng Ji, Saloni Potdar. In _EMNLP_ 2024.
-- :medal_sports:**[Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs](https://t.co/m6Ex3bG8Vc)**. Simone Conia, Daniel Lee, Min Li, Umar Farooq Minhas, Saloni Potdar, **Yunyao Li**. In _EMNLP_ 2024. [Code](https://t.co/KcqlSFn8ih) (**Outstanding Paper Award**)
+- **[Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs](https://t.co/m6Ex3bG8Vc)**. Simone Conia, Daniel Lee, Min Li, Umar Farooq Minhas, Saloni Potdar, **Yunyao Li**. In _EMNLP_ 2024. [Code](https://t.co/KcqlSFn8ih) (**Outstanding Paper Award**)
   - Addresses ``the challenge of translating culturally-relevant named entities, challenging previously held views about how to translate named entities." 
 - **[StorySpark: Expert-Annotated QA Pairs with Real-World Knowledge for Children Storytelling](https://arxiv.org/abs/2311.09756)**. Jiaju Chen, Yuxuan Lu, Shao Zhang, Bingsheng Yao, Yuanzhe Dong, Ying Xu, **Yunyao Li**, Qianwen Wang, Dakuo Wang, Yuling Sun. In _EMNLP_ 2024.
 - **[ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA datasets with Large Language Models](https://arxiv.org/abs/2408.05948)**. Ronak Pradeep, Daniel Lee, Ali Mousavi, Jeffrey Pound, Yisi Sang, Jimmy Lin, Ihab Ilyas, Saloni Potdar, Mostafa Arefiyan, **Yunyao Li**. In _EMNLP (Industry Track)_ 2024
@@ -201,7 +201,7 @@ Technology_ April 2020
 
 - **[OpinionBlocks: A Crowd-Powered, Self-Improving Interactive Visual Analytic System for Understanding Opinion Text](https://yunyaoli.github.io/files/interact2013_opinionBlock.pdf).** Mengdie Hu, Huahai Yang, Michelle Zhou, Liang Gou, **Yunyao Li**, and Eben Haber. In _INTERACT_ 2013
 
-- :medal_sports:**[Adaptive Parser-Centric Text Normalization](https://aclanthology.org/P13-1114/).** Congle Zhang, Tyler Baldwin, Howard Ho, Benny Kimelfeld, **Yunyao Li**. In _ACL_ 2013 (**Best paper nomination**)
+- **[Adaptive Parser-Centric Text Normalization](https://aclanthology.org/P13-1114/).** Congle Zhang, Tyler Baldwin, Howard Ho, Benny Kimelfeld, **Yunyao Li**. In _ACL_ 2013 (**Best paper nomination**)
 
 - **[Automatic Term Ambiguity Detection](https://aclanthology.org/P13-2140/).** Tyler Baldwin, **Yunyao Li**, Bogdan Alexe, Ioana Roxana Stanoi. In _ACL_ 2013 (short paper)
 
@@ -266,7 +266,7 @@ and Huaiyu Zhu.  _SIGMOD Record_ 37(4) 2008
 
 ### 2005
 
-- :medal_sports:**[NaLIX: an Interactive Natural Language Interface for Querying XML](https://yunyaoli.github.io/files/sigmod05-nalix.pdf).** **Yunyao Li**, Huahai Yang, H. V. Jagadish. In _SIGMOD (Demonstration Track)_ 2005 **(Best Demo Award)**
+- **[NaLIX: an Interactive Natural Language Interface for Querying XML](https://yunyaoli.github.io/files/sigmod05-nalix.pdf).** **Yunyao Li**, Huahai Yang, H. V. Jagadish. In _SIGMOD (Demonstration Track)_ 2005 **(Best Demo Award)**
 
 ### 2004
 
