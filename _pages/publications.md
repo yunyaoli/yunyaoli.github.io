@@ -14,6 +14,7 @@ redirect_from:
 
 ### Refereed Articles
 ### 2025
+- **KG-TRICK: Unifying Textual and Relational Information Completion of Knowledge for Multilingual Knowledge Graphs**. Zelin Zhou, Simone Conia, Daniel Lee, Min Li, Shenglei Huang, Umar Farooq Minhas, Saloni Potdar, Yu Xiao and **Yunyao Li**. To appear in _COLING_ 2025
 - **[MuRAR: A Simple and Effective Multimodal Retrieval and Answer Refinement Framework for Multimodal Question Answering](https://www.arxiv.org/abs/2408.08521)**. Zhengyuan Zhu, Daniel Lee, Hong Zhang, Sai Sree Harsha, Loic Feujio, Akash Maharaj, **Yunyao Li**. To appear in _COLING (Demonstration Track)_ 2025. 
 - **MKP-QA : Multi-domain Knowledge-augmented Product Question-Answering with Stochastic Gated Federated Search**. Parshin Shojaee1, Sai Sree Harsha, Dan Luo, Akash Maharaj, Tong Yu, **Yunyao Li**. To appear in _COLING (Industry Track)_ 2025. 
 - **ECLAIR: Enhanced Clarification for Interactive Responses in an Enterprise AI Assistant**. John Murzaku, Zifan Liu, Vaishnavi Muppala, Mehrab Tanjim, Xiang Chen, Yunyao Li. To appear in _AAAI (Demonstration Track)_ 2025
