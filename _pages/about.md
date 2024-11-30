@@ -10,7 +10,7 @@ redirect_from:
 
 ![Yunyao Li: Illustrated Story](https://yunyaoli.github.io/images/YunyaoLi.IllustratedStories.jpg "illustrated story")
 
-Thought leader and changing agent with over 10 years of success in a Silicon Valley R&D center, achieving business impact by combining effective leadership with deep technical knowledge and skills. World-class computer scientist, continuing to push the boundary of innovation from scientific research to business results. Passionate advocate for improving the diversity for the STEM field.
+Thought leader and changing agent with over 15 years of success in a Silicon Valley R&D center, achieving business impact by combining effective leadership with deep technical knowledge and skills. World-class computer scientist, continuing to push the boundary of innovation from scientific research to business results. Passionate advocate for improving the diversity for the STEM field.
 
 - Led the R&D of several large research projects, resulting in successful transfer into 20+ products with high business impact (billion+\$ revenue) and numerous high-profile customer engagements. Recognized by multiple prestigious IBM internal awards. 
 - Built a high performing team awarded with 12 prestigious research accomplishment awards within the past 5 years with perfect employee engagement scores. 
