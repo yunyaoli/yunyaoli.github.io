@@ -14,15 +14,16 @@ redirect_from:
 
 ### Refereed Articles
 ### 2025
-- **Text-to-SQL Domain Adaptation via Human-LLM Collaborative Data Annotation**. Yuan Tian, Daniel Lee, Fei Wu, Tung Mai, Kun Qian, Siddhartha Sahai, Tianyi Zhang, **Yunyao Li**. To appear in _IUI_ 2025
-- **CoPrompter: User-Centric Evaluation of LLM Instruction Alignment for Improved Prompt Engineering**.  Ishika Joshi, Simra Shahid, Shreeya Venneti, Manushree Vasu, Yantao Zheng, **Yunyao Li**, Jayakumar S, Gromit Chen, Balaji K. To appear in _IUI_ 2025
-- **[KG-TRICK: Unifying Textual and Relational Information Completion of Knowledge for Multilingual Knowledge Graphs](https://arxiv.org/abs/2501.03560)**. Zelin Zhou, Simone Conia, Daniel Lee, Min Li, Shenglei Huang, Umar Farooq Minhas, Saloni Potdar, Yu Xiao and **Yunyao Li**. In _COLING_ 2025
+- **Text-to-SQL Domain Adaptation via Human-LLM Collaborative Data Annotation**. Yuan Tian, Daniel Lee, Fei Wu, Tung Mai, Kun Qian, Siddhartha Sahai, Tianyi Zhang, **Yunyao Li**. To appear in _IUI_ 2025.
+- **CoPrompter: User-Centric Evaluation of LLM Instruction Alignment for Improved Prompt Engineering**.  Ishika Joshi, Simra Shahid, Shreeya Venneti, Manushree Vasu, Yantao Zheng, **Yunyao Li**, Jayakumar S, Gromit Chen, Balaji K. To appear in _IUI_ 2025.
+- **ECLAIR: Enhanced Clarification for Interactive Responses in an Enterprise AI Assistant**. John Murzaku, Zifan Liu, Vaishnavi Muppala, Mehrab Tanjim, Xiang Chen, **Yunyao Li**. To appear in _AAAI (Demonstration Track)_ 2025.
+- **Rewind and Render: Towards Factually Accurate Text-to-Video Generation with Distilled Knowledge Retrieval**. Daniel Lee, Arjun Chandra, Yang Zhou, **Yunyao Li**, Simone Conia. To appear in _AAAI (Demonstration Track)_ 2025.
+- **ECLAIR: Enhanced Clarification for Interactive Responses**. Murzaku, Zifan Liu, Mehrab Tanjim, Vaishnavi Muppala, Xiang Chen, **Yunyao Li**. To appear in _IAAI_ 2025.
+- **Evaluation and Incident Prevention in an Enterprise AI Assistant**. Akash V Maharaj, David Arbour, Daniel Lee, Uttaran Bhattacharya, Anup Rao, Austin Zane, Kun Qian, **Yunyao Li**. To appear in _IAAI_ 2025.
+- **[KG-TRICK: Unifying Textual and Relational Information Completion of Knowledge for Multilingual Knowledge Graphs](https://arxiv.org/abs/2501.03560)**. Zelin Zhou, Simone Conia, Daniel Lee, Min Li, Shenglei Huang, Umar Farooq Minhas, Saloni Potdar, Yu Xiao and **Yunyao Li**. In _COLING_ 2025.
 - **[MuRAR: A Simple and Effective Multimodal Retrieval and Answer Refinement Framework for Multimodal Question Answering](https://www.arxiv.org/abs/2408.08521)**. Zhengyuan Zhu, Daniel Lee, Hong Zhang, Sai Sree Harsha, Loic Feujio, Akash Maharaj, **Yunyao Li**. In _COLING (Demonstration Track)_ 2025. 
-- **MKP-QA : Multi-domain Knowledge-augmented Product Question-Answering with Stochastic Gated Federated Search**. Parshin Shojaee1, Sai Sree Harsha, Dan Luo, Akash Maharaj, Tong Yu, **Yunyao Li**. In _COLING (Industry Track)_ 2025. 
-- **ECLAIR: Enhanced Clarification for Interactive Responses in an Enterprise AI Assistant**. John Murzaku, Zifan Liu, Vaishnavi Muppala, Mehrab Tanjim, Xiang Chen, **Yunyao Li**. To appear in _AAAI (Demonstration Track)_ 2025
-- **Rewind and Render: Towards Factually Accurate Text-to-Video Generation with Distilled Knowledge Retrieval**. Daniel Lee, Arjun Chandra, Yang Zhou, **Yunyao Li**, Simone Conia. To appear in _AAAI (Demonstration Track)_ 2025
-- **ECLAIR: Enhanced Clarification for Interactive Responses**. Murzaku, Zifan Liu, Mehrab Tanjim, Vaishnavi Muppala, Xiang Chen, **Yunyao Li**. To appear in _IAAI_ 2025
-- **Evaluation and Incident Prevention in an Enterprise AI Assistant**. Akash V Maharaj, David Arbour, Daniel Lee, Uttaran Bhattacharya, Anup Rao, Austin Zane, Kun Qian, **Yunyao Li**. To appear in _IAAI_ 2025
+- **MKP-QA : Multi-domain Knowledge-augmented Product Question-Answering with Stochastic Gated Federated Search**. Parshin Shojaee1, Sai Sree Harsha, Dan Luo, Akash Maharaj, Tong Yu, **Yunyao Li**. In _COLING (Industry Track)_ 2025.
+
 
 ### 2024
 - **[AGRaME: Any-Granularity Ranking with Multi-Vector Embeddings](https://arxiv.org/abs/2405.15028)**. Revanth Gangi Reddy, Omar Attia, **Yunyao Li**, Heng Ji, Saloni Potdar. In _EMNLP_ 2024.
