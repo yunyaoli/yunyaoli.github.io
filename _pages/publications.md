@@ -22,13 +22,13 @@ redirect_from:
 - **ECLAIR: Enhanced Clarification for Interactive Responses**. Murzaku, Zifan Liu, Mehrab Tanjim, Vaishnavi Muppala, Xiang Chen, **Yunyao Li**. To appear in _IAAI_ 2025.
 - **Evaluation and Incident Prevention in an Enterprise AI Assistant**. Akash V Maharaj, David Arbour, Daniel Lee, Uttaran Bhattacharya, Anup Rao, Austin Zane, Kun Qian, **Yunyao Li**. To appear in _IAAI_ 2025.
 - **[KG-TRICK: Unifying Textual and Relational Information Completion of Knowledge for Multilingual Knowledge Graphs](https://arxiv.org/abs/2501.03560)**. Zelin Zhou, Simone Conia, Daniel Lee, Min Li, Shenglei Huang, Umar Farooq Minhas, Saloni Potdar, Yu Xiao and **Yunyao Li**. In _COLING_ 2025.
-- **[MuRAR: A Simple and Effective Multimodal Retrieval and Answer Refinement Framework for Multimodal Question Answering](https://www.arxiv.org/abs/2408.08521)**. Zhengyuan Zhu, Daniel Lee, Hong Zhang, Sai Sree Harsha, Loic Feujio, Akash Maharaj, **Yunyao Li**. In _COLING (Demonstration Track)_ 2025. 
+- 🏅 **[MuRAR: A Simple and Effective Multimodal Retrieval and Answer Refinement Framework for Multimodal Question Answering](https://www.arxiv.org/abs/2408.08521)**. Zhengyuan Zhu, Daniel Lee, Hong Zhang, Sai Sree Harsha, Loic Feujio, Akash Maharaj, **Yunyao Li**. In _COLING (Demonstration Track)_ 2025 (**Best Demo Award**)
 - **MKP-QA : Multi-domain Knowledge-augmented Product Question-Answering with Stochastic Gated Federated Search**. Parshin Shojaee1, Sai Sree Harsha, Dan Luo, Akash Maharaj, Tong Yu, **Yunyao Li**. In _COLING (Industry Track)_ 2025.
 
 
 ### 2024
 - **[AGRaME: Any-Granularity Ranking with Multi-Vector Embeddings](https://arxiv.org/abs/2405.15028)**. Revanth Gangi Reddy, Omar Attia, **Yunyao Li**, Heng Ji, Saloni Potdar. In _EMNLP_ 2024.
-- **[Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs](https://t.co/m6Ex3bG8Vc)**. Simone Conia, Daniel Lee, Min Li, Umar Farooq Minhas, Saloni Potdar, **Yunyao Li**. In _EMNLP_ 2024. [Code](https://t.co/KcqlSFn8ih) (**Outstanding Paper Award**)
+- 🏅 **[Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs](https://t.co/m6Ex3bG8Vc)**. Simone Conia, Daniel Lee, Min Li, Umar Farooq Minhas, Saloni Potdar, **Yunyao Li**. In _EMNLP_ 2024. [Code](https://t.co/KcqlSFn8ih) (**Outstanding Paper Award**)
   - Addresses ``the challenge of translating culturally-relevant named entities, challenging previously held views about how to translate named entities." 
 - **[StorySpark: Expert-Annotated QA Pairs with Real-World Knowledge for Children Storytelling](https://arxiv.org/abs/2311.09756)**. Jiaju Chen, Yuxuan Lu, Shao Zhang, Bingsheng Yao, Yuanzhe Dong, Ying Xu, **Yunyao Li**, Qianwen Wang, Dakuo Wang, Yuling Sun. In _EMNLP_ 2024.
 - **[ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA datasets with Large Language Models](https://arxiv.org/abs/2408.05948)**. Ronak Pradeep, Daniel Lee, Ali Mousavi, Jeffrey Pound, Yisi Sang, Jimmy Lin, Ihab Ilyas, Saloni Potdar, Mostafa Arefiyan, **Yunyao Li**. In _EMNLP (Industry Track)_ 2024
