@@ -4,8 +4,9 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+- 🏆 __January 24, 2025__ Our paper [MuRAR: A Simple and Effective Multimodal Retrieval and Answer Refinement Framework for Multimodal Question Answering](https://t.co/GM9VCE0ypk) won the Best Demo Paper at COLING'2025！([Twitter Post](https://x.com/yunyao_li/status/1882802041778798711)）
 - __January 20, 2025__ Multiple paper at COLING'2025 this week! [link](https://x.com/yunyao_li/status/1881377998718558427)
-- __November 14, 2024__ Our paper [Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs](https://t.co/m6Ex3bG8Vc) won an Outstanding Paper award at EMNLP'2024! ([Twitter Post](https://twitter.com/yunyao_li/status/1857265049816961315))
+- 🏆 __November 14, 2024__ Our paper [Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs](https://t.co/m6Ex3bG8Vc) won an Outstanding Paper award at EMNLP'2024! ([Twitter Post](https://twitter.com/yunyao_li/status/1857265049816961315))
 - __October 2024__ Multiple paper acceptance at EMNLP'2024! [link](https://twitter.com/yunyao_li/status/1855669427813183942)
 - __June 6, 2024__ [AI Assistant in Adobe Experience Platform](https://business.adobe.com/products/sensei/ai-assistant.html) officially GAed today! ([Twitter Post](https://twitter.com/yunyao_li/status/1798784936784351713))
 - __March 26, 2024__ The project I led at [AI Assistant in Adobe Experience Platform](https://business.adobe.com/products/sensei/ai-assistant.html) got announced on Adobe Summit main stage!([Twitter Post](https://twitter.com/yunyao_li/status/1772686639719915890)) 
