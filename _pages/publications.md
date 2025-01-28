@@ -271,7 +271,7 @@ and Huaiyu Zhu.  _SIGMOD Record_ 37(4) 2008
 
 ### 2005
 
-- **[NaLIX: an Interactive Natural Language Interface for Querying XML](https://yunyaoli.github.io/files/sigmod05-nalix.pdf).** **Yunyao Li**, Huahai Yang, H. V. Jagadish. In _SIGMOD (Demonstration Track)_ 2005 **(Best Demo Award)**
+- 🏅 **[NaLIX: an Interactive Natural Language Interface for Querying XML](https://yunyaoli.github.io/files/sigmod05-nalix.pdf).** **Yunyao Li**, Huahai Yang, H. V. Jagadish. In _SIGMOD (Demonstration Track)_ 2005 **(Best Demo Award)**
 
 ### 2004
 
