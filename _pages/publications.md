@@ -14,6 +14,7 @@ redirect_from:
 
 ### Refereed Articles
 ### 2025
+- **FISQL: Enhancing Text-to-SQL Systems with Rich Interactive Feedback**. Rakesh R. Menon, Kun Qian, Liqun Chen, Ishika Joshi, Daniel Pandyan, Jordyn Harrison, Shashank Srivastava, **Yunyao Li**. To appear in _EDBT (Industrial and Application Track)_ 2025 
 - **Text-to-SQL Domain Adaptation via Human-LLM Collaborative Data Annotation**. Yuan Tian, Daniel Lee, Fei Wu, Tung Mai, Kun Qian, Siddhartha Sahai, Tianyi Zhang, **Yunyao Li**. To appear in _IUI_ 2025.
 - **CoPrompter: User-Centric Evaluation of LLM Instruction Alignment for Improved Prompt Engineering**.  Ishika Joshi, Simra Shahid, Shreeya Venneti, Manushree Vasu, Yantao Zheng, **Yunyao Li**, Jayakumar S, Gromit Chen, Balaji K. To appear in _IUI_ 2025.
 - **ECLAIR: Enhanced Clarification for Interactive Responses in an Enterprise AI Assistant**. John Murzaku, Zifan Liu, Vaishnavi Muppala, Mehrab Tanjim, Xiang Chen, **Yunyao Li**. To appear in _AAAI (Demonstration Track)_ 2025.
