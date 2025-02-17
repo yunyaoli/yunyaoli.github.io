@@ -6,10 +6,13 @@ author_profile: true
 ---
 
 ## Invited Talks, Keynote Speeches, Panels, and Tutorials 
+### 2025
+- Invited talk: "**Building & Querying Enterprise Knowledge Bases: From Declarative Languages to GenAI**" at UCSC NLP Seminars, January 2025 (with Akash Maharaj)
+
 ### 2024
-- Invited Talk: "**Building & Querying Enterprise Knowledge Bases: From Declarative Languages to GenAI**" UIC Data Labs Seminars, December 2024
+- Invited talk: "**Building & Querying Enterprise Knowledge Bases: From Declarative Languages to GenAI**" UIC Data Labs Seminars, December 2024
 - Invited panel: "**Industrial Collaboration and Startups**", CRA-WP Virtual Career Mentoring Workshop Series, November 2024 [link](https://www.linkedin.com/feed/update/urn:li:activity:7262162263350878210/)
-- Invited Talk: "**Introduction to NLP**", Invited Lecture at STTAR's online Advanced Course "**Transformative Teaching With AI: Practices and Approaches in Education**", August 2024 (with Shivakumar Vaithyanathan, Vishy Swaminathan, and Dakuo Wang)
+- Invited talk: "**Introduction to NLP**", Invited Lecture at STTAR's online Advanced Course "**Transformative Teaching With AI: Practices and Approaches in Education**", August 2024 (with Shivakumar Vaithyanathan, Vishy Swaminathan, and Dakuo Wang)
 - Tutorial: "**Meaning Representations for Natural Languages: Design, Models and Applications**": LREC-COLING'2024, May 2024 [slides](https://www.slideshare.net/slideshow/meaning-representations-for-natural-languages-design-models-and-applications-pdf/269747868)
 
 
