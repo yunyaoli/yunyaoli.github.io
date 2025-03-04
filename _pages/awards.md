@@ -27,11 +27,11 @@ author_profile: true
 
 ### Selected External Technical Recognition and Awards
 
-- **DSRI AI Incidents and Best Practices Paper Award**, IAAI Conference (2025) 
-  -_Evaluation and Incident Prevention in an Enterprise AI Assistant_
+- **DSRI AI Incidents and Best Practices Paper Award**, IAAI Conference (2025) ([Twitter Post](https://x.com/yunyao_li/status/1895245014579716275))
+  - _Evaluation and Incident Prevention in an Enterprise AI Assistant_
 
 - **Best Demo Award**, COLING Conference (2025)
-  -_MuRAR: A Simple and Effective Multimodal Retrieval and Answer Refinement Framework for Multimodal Question Answering_ 
+  - _MuRAR: A Simple and Effective Multimodal Retrieval and Answer Refinement Framework for Multimodal Question Answering_ 
 
 - **Outstanding Paper Award**, EMNLP Conference (2024) ([Twitter Post](https://twitter.com/yunyao_li/status/1857265049816961315))
   - [Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs](https://t.co/m6Ex3bG8Vc)
