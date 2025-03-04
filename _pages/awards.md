@@ -27,13 +27,19 @@ author_profile: true
 
 ### Selected External Technical Recognition and Awards
 
+- **DSRI AI Incidents and Best Practices Paper Award**, IAAI Conference (2025) 
+  -_Evaluation and Incident Prevention in an Enterprise AI Assistant_
+
+- **Best Demo Award**, COLING Conference (2025)
+  -_MuRAR: A Simple and Effective Multimodal Retrieval and Answer Refinement Framework for Multimodal Question Answering_ 
+
 - **Outstanding Paper Award**, EMNLP Conference (2024) ([Twitter Post](https://twitter.com/yunyao_li/status/1857265049816961315))
   - [Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs](https://t.co/m6Ex3bG8Vc)
 
 - **Best Demo Award**, International Semantic Web Conference (2020) [announcement](https://twitter.com/iswc_conf/status/1324766153366011908)
   - _[Ontology Mediated Information Extraction with MASTRO SYSTEM-T](http://ceur-ws.org/Vol-2721/paper564.pdf)_}
 
-- **Participant**, World Laureates Forum Young Scientists Forum (2019)
+- **Selected Participant**, World Laureates Forum Young Scientists Forum (2019)
   - 1 out of 100 selected worldwide, 1 of 4 from United States
 
 - **Best Paper Runner-up**, ACL Conference (2013)
