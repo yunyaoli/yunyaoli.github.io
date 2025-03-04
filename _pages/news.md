@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 - 🏆 __Feburary 27, 2025__ Our paper "Evaluation and Incident Prevention in an Enterprise AI Assistant" won the Best Demo Paper at IAAI'2025！([Twitter Post](https://x.com/yunyao_li/status/1895245014579716275)))
-- __Feburary 6, 2025__ Honored to share that I've been appointed to the Advisors Board at University of Michigan - School of Information([Twitter post](https://x.com/yunyao_li/status/1887299244832526456))
+- __Feburary 6, 2025__ Honored to share that I've been appointed to the Advisors Board at University of Michigan - School of Information ([Twitter post](https://x.com/yunyao_li/status/1887299244832526456))
 - 🏆 __January 24, 2025__ Our paper [MuRAR: A Simple and Effective Multimodal Retrieval and Answer Refinement Framework for Multimodal Question Answering](https://t.co/GM9VCE0ypk) won the Best Demo Paper at COLING'2025！([Twitter Post](https://x.com/yunyao_li/status/1882802041778798711)）
 - __January 20, 2025__ Multiple paper at COLING'2025 this week! [link](https://x.com/yunyao_li/status/1881377998718558427)
 - 🏆 __November 14, 2024__ Our paper [Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs](https://t.co/m6Ex3bG8Vc) won an Outstanding Paper award at EMNLP'2024! ([Twitter Post](https://twitter.com/yunyao_li/status/1857265049816961315))
