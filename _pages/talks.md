@@ -7,8 +7,8 @@ author_profile: true
 
 ## Invited Talks, Keynote Speeches, Panels, and Tutorials 
 ### 2025
--Keynote talk: "**Building & Querying Enterprise Knowledge Bases: From Declarative Languages to GenAI**" at [KnowledgeNLP Workshop](https://knowledge-nlp.github.io/naacl2025/) (co-located with NAACL), May 2025
--Invited talk: "**Building & Querying Enterprise Knowledge Bases: From Declarative Languages to GenAI**" at Univ. of Michigan DB Seminars, April 2025
+- Keynote talk: "**Building & Querying Enterprise Knowledge Bases: From Declarative Languages to GenAI**" at [KnowledgeNLP Workshop](https://knowledge-nlp.github.io/naacl2025/) (co-located with NAACL), May 2025
+- Invited talk: "**Building & Querying Enterprise Knowledge Bases: From Declarative Languages to GenAI**" at Univ. of Michigan DB Seminars, April 2025
 - Invited talk: "**Building & Querying Enterprise Knowledge Bases: From Declarative Languages to GenAI**" at UCSC NLP Seminars, January 2025 (with Akash Maharaj)
 
 ### 2024
