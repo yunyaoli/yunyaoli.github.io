@@ -73,13 +73,13 @@ table th:nth-of-type(3) {
 
 ### Leon Derczynsk - Panelist
 
-* <small>Leon Derczynski is principal research scientist for LLM security at NVIDIA and prof in computer science at ITU Copenhagen. He was written inches, if not kilograms, of papers, and won similar quantities of awards etc. Prof. Derczynski has led policy efforts in academia, industry, and civil society. He has held affiliations at a dozen organisations in the past decade, including startups, universities, corporations, and non-profits; built research programmes at both a leading university and a leading corporation; and he retains a deep love of both university and industry research.
+<small>Leon Derczynski is principal research scientist for LLM security at NVIDIA and prof in computer science at ITU Copenhagen. He was written inches, if not kilograms, of papers, and won similar quantities of awards etc. Prof. Derczynski has led policy efforts in academia, industry, and civil society. He has held affiliations at a dozen organisations in the past decade, including startups, universities, corporations, and non-profits; built research programmes at both a leading university and a leading corporation; and he retains a deep love of both university and industry research.
  </small>
 
 
 ### Pascale Fung - Panelist
 
-* <small> Pascale Fung is a Senior Director of AI Research at Meta-FAIR leading research efforts on AI Agents, physical and mental world modeling, and collaborating with GenAI and Meta AI.
+<small> Pascale Fung is a Senior Director of AI Research at Meta-FAIR leading research efforts on AI Agents, physical and mental world modeling, and collaborating with GenAI and Meta AI.
 
 As an AI pioneer since the 1990s, she has been recognized and elected as a Fellow of the Association for the Advancement of AI, the Association for Computational Linguistics, the Institute of Electrical and Electronic Engineers and the International Speech Communication Association for fundamental contributions to the areas of human-machine interactions.
 
@@ -87,6 +87,6 @@ She is an expert on the Global Future Council of the World Economic Forum since 
 
 ### Lucia Specia - Panelist
 
-* <small> Lucia Specia is a British computer scientist, professor of natural language processing at Imperial College London and Chief Scientist at Contex.ai. She holds a joint position in language engineering at the University of Sheffield. Her research investigates data-driven approaches to natural language processing (NLP). </small>
+<small> Lucia Specia is a British computer scientist, professor of natural language processing at Imperial College London and Chief Scientist at Contex.ai. She holds a joint position in language engineering at the University of Sheffield. Her research investigates data-driven approaches to natural language processing (NLP). </small>
 
 
