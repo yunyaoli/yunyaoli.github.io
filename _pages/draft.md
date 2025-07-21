@@ -50,12 +50,14 @@ table th:nth-of-type(3) {
 
 ## Keynotes
 
-### Coming Soon**
+### From Words to Worlds: NLP for Game Creation and Interaction**
 #### Lucia Specia
-* <small>**Abstract:** TBA.</small>
+* <small>**Abstract:** The gaming industry is a leading force in global entertainment, surpassing the size of the
+music and film industries combined. With over 3 billion people playing games, there’s bigger and bigger demand for fresh, high-quality, and immersive experiences. At the same time, user-generated games have become a core component of major gaming platforms, fostering creativity and diversification. These developments present significant opportunities for AI research and AI-driven tools designed to support gaming, from AAA studios to independent creators. In this talk, I will highlight some of these opportunities, focusing on three areas involving language: 1) Speech-driven animation, where we predict lip sync, expression, and head motion of a character from audio to animate photo-realistic characters; 2) Low-resource language code generation, where we build a code generation model for Verse, a new language designed specifically for programming interactive 3D worlds, games, and simulations; and 3) Safety of interactive NPCs at scale, where we design safety strategies to support the deployment of LLMs for speech to speech in-game (Fortnite) conversations between players and NPCs..</small>
 
-* <small>**Bio:**  Lucia Specia is a British computer scientist, professor of natural language processing at Imperial College London and Chief Scientist at Contex.ai. She holds a joint position in language engineering at the University of Sheffield. Her research investigates data-driven approaches to natural language processing (NLP).
- </small>
+* <small>**Bio:**  Lucia Specia is Senior Director of Research Engineering at Epic Games and Professor of Natural
+Language Processing at Imperial College London. Her work focuses on various aspects of data-driven approaches to multimodal and multilingual context models, with applications including machine translation, image captioning, visual question answering, quality estimation, and content moderation, among others. In 2021, she founded Contex.ai to build multimodal content moderation models for real world
+applications, focusing in the gaming industry. She now leads a team of research engineers at Epic Games delivering ML solutions across automation and business optimization, safety and security, user experience and content creation. She received a PhD from the University of Sao Paulo and has held positions at University of Sheffield, Meta, and Xerox Research.</small>
 
 
 ### We Can't Do it Alone**
@@ -87,6 +89,6 @@ She is an expert on the Global Future Council of the World Economic Forum since 
 
 ### Lucia Specia - Panelist
 
-<small> Lucia Specia is a British computer scientist, professor of natural language processing at Imperial College London and Chief Scientist at Contex.ai. She holds a joint position in language engineering at the University of Sheffield. Her research investigates data-driven approaches to natural language processing (NLP). </small>
-
-
+<small> Lucia Specia is Senior Director of Research Engineering at Epic Games and Professor of Natural
+Language Processing at Imperial College London. Her work focuses on various aspects of data-driven approaches to multimodal and multilingual context models, with applications including machine translation, image captioning, visual question answering, quality estimation, and content moderation, among others. In 2021, she founded Contex.ai to build multimodal content moderation models for real world
+applications, focusing in the gaming industry. She now leads a team of research engineers at Epic Games delivering ML solutions across automation and business optimization, safety and security, user experience and content creation. She received a PhD from the University of Sao Paulo and has held positions at University of Sheffield, Meta, and Xerox Research.</small>
