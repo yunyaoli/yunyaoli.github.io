@@ -14,9 +14,11 @@ redirect_from:
 
 ### Refereed Articles
 ### 2025
+- **HierTOD: A Task-Oriented Dialogue System Driven by Hierarchical Goals**. Lingbo Mo, Shun Jiang, Akash V Maharaj, J. Bernard Hishamunda, **Yunyao Li**. To appear in _DaSH Workshop @VLDB_ 2025
+- **Adobe Summit Concierge Evaluation with Human-in-the-loop**. Yiru Chen, Sally Fang, Sai Sree Harsha, Dan Luo, Vaishnavi Muppala, Fei Wu, Shun Jiang, Kun Qian, **Yunyao Li**. To appear in _DaSH Workshop @VLDB_ 2025
 - **EVOSCHEMA: Towards Text-to-SQL Robustness Agaist Schema Evolution**. Tianshu Zhang, Kun Qian, Siddhartha Sahai, Yuan Tian, Shaddy Garg, Huan Sun, **Yunyao Li**. To appear in _PVLDB_ 2025. 
-- **Doc-React: Multi-page Heterogeneous Document Question-answering**. Junda Wu, Yu Xia, Tong Yu, Xiang Chen, Sai Sree Harsha, Akash V Maharaj, Ruiyi Zhang, Victor Bursztyn, Sungchul Kim, Ryan A. Rossi, Julian McAuley, **Yunyao Li**, Ritwik Sinha. To appear in _ACL_ 2025
-- **Grounding Pixels in Facts: Distilled Knowledge Retrieval for Factual Text-to-Video Generation**. Daniel Lee, Arjun Chandra, Yang Zhou, **Yunyao Li**, Simone Conia. To appear in _CVPR (Demonstration Track)_ 2025
+- **Doc-React: Multi-page Heterogeneous Document Question-answering**. Junda Wu, Yu Xia, Tong Yu, Xiang Chen, Sai Sree Harsha, Akash V Maharaj, Ruiyi Zhang, Victor Bursztyn, Sungchul Kim, Ryan A. Rossi, Julian McAuley, **Yunyao Li**, Ritwik Sinha. In _ACL_ 2025
+- **Grounding Pixels in Facts: Distilled Knowledge Retrieval for Factual Text-to-Video Generation**. Daniel Lee, Arjun Chandra, Yang Zhou, **Yunyao Li**, Simone Conia. In _CVPR (Demonstration Track)_ 2025
 - **[FISQL: Enhancing Text-to-SQL Systems with Rich Interactive Feedback](https://www.openproceedings.org/2025/conf/edbt/paper-300.pdf)**. Rakesh R. Menon, Kun Qian, Liqun Chen, Ishika Joshi, Daniel Pandyan, Jordyn Harrison, Shashank Srivastava, **Yunyao Li**. In _EDBT (Industrial and Application Track)_ 2025 
 - **[Text-to-SQL Domain Adaptation via Human-LLM Collaborative Data Annotation](https://arxiv.org/abs/2502.15980)**. Yuan Tian, Daniel Lee, Fei Wu, Tung Mai, Kun Qian, Siddhartha Sahai, Tianyi Zhang, **Yunyao Li**. In _IUI_ 2025.
 - **[CoPrompter: User-Centric Evaluation of LLM Instruction Alignment for Improved Prompt Engineering](https://arxiv.org/abs/2411.06099)**.  Ishika Joshi, Simra Shahid, Shreeya Venneti, Manushree Vasu, Yantao Zheng, **Yunyao Li**, Jayakumar S, Gromit Chen, Balaji K. In _IUI_ 2025.
