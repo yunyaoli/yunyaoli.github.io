@@ -14,7 +14,7 @@ redirect_from:
 
 ### Refereed Articles
 ### 2025
-- **[Evaluation and incident prevention in an enterprise AI assistant](https://onlinelibrary.wiley.com/doi/10.1002/aaai.70028)**. Akash V. Maharaj, David Arbour, Daniel Lee, Uttaran Bhattacharya, Anup Rao, Austin Zane, Avi Feller, Kun Qian, Sajjadur Rahman, **Yunyao Li**. In AI Magazine, Volume46, Issue3. _Extension from [earlier IAAI article](https://ojs.aaai.org/index.php/AAAI/article/view/35161). 
+- **[Evaluation and incident prevention in an enterprise AI assistant](https://onlinelibrary.wiley.com/doi/10.1002/aaai.70028)**. Akash V. Maharaj, David Arbour, Daniel Lee, Uttaran Bhattacharya, Anup Rao, Austin Zane, Avi Feller, Kun Qian, Sajjadur Rahman, **Yunyao Li**. In _AI Magazine_, Volume46, Issue3. _Extension from [earlier IAAI article](https://ojs.aaai.org/index.php/AAAI/article/view/35161). 
 Fall 2025
 - **[HierTOD: A Task-Oriented Dialogue System Driven by Hierarchical Goals](https://arxiv.org/abs/2411.07152)**. Lingbo Mo, Shun Jiang, Akash V Maharaj, J. Bernard Hishamunda, **Yunyao Li**. In _DaSH Workshop @VLDB_ 2025
 - **Adobe Summit Concierge Evaluation with Human-in-the-loop**. Yiru Chen, Sally Fang, Sai Sree Harsha, Dan Luo, Vaishnavi Muppala, Fei Wu, Shun Jiang, Kun Qian, **Yunyao Li**. In _DaSH Workshop @VLDB_ 2025
