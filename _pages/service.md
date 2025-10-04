@@ -8,16 +8,20 @@ author_profile: true
 {% include base_path %}
 
 ## Selected Board Membership
+- Board Member, Advisory Board, School of Information, University of Michigan - Ann Arbor, Since January 2025
 - Board Member, Advisory Board, Professional MS degree in Computational Linguistics, Analytics, Search and Informatics (CLASIC), University of Colorado Boulder, Since January 2024
-- Board Member, NAACL Executive Board, Since Janunary 2023
-- Board Member, NIST TAC-KBP Scientific Advisory Board, Since May 2020
 - Board Member, Industry Advisory Board, Master of Science in Natural Language Processing, UC-Santa Cruz, Since September 2018
+- Board Member, NAACL Executive Board, 2023-2024
+- Board Member, NIST TAC-KBP Scientific Advisory Board, 2020-2022
 - Board Member, External Advisory Board, Bachelor of Science in Computer Science program, San Jose State University, 2016-2018
 - Council Member, Mentor-Protege Council, MentorNet, 2013-2018
 
 ## Professional Services 
 Since 2018
 
+### 2026
+- Co-chair, ACL'2026 Industry Track
+  
 ### 2025
 - Co-chair, ACL'2025 Industry Track
 
