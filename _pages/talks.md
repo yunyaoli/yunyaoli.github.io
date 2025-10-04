@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Invited Talks, Keynote Speeches, Panels, and Tutorials 
+Since 2020
+
 ### 2025
 - Keynote talk "**Declarative to Generative: Building and Querying Enterprise Knowledge Bases**" at Knowledgeable Foundation Models Workshop (co-located with ACL), August 2025
 - Panel: "**Rethinking NLP Evaluation: Automatic metrics, LLM as a judge, human evaluation, and beyond**" at IT:U (Interdisciplinary Transformation University Austria) Summer School on NLP, July 2025
