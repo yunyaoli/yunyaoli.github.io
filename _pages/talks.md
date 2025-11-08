@@ -9,8 +9,13 @@ author_profile: true
 Since 2020
 
 ### 2025
+- Invited Talk "**Building and Querying Enterprise Knowledge Bases: From Declarative to Agentic**" at NYU Abu Dhabi, October 2025
+- Invited Talk "**From Lab to Launch: Building a Career Beyond Academia**" at MBZUAI (Mohamed bin Zayed University of Artificial Intelligence) Global Tech Talk series, October 2025 [Slides Link](https://www.slideshare.net/slideshow/from-lab-to-launch-building-a-career-beyond-academia/283941438)
 - Keynote talk "**Declarative to Generative: Building and Querying Enterprise Knowledge Bases**" at Knowledgeable Foundation Models Workshop (co-located with ACL), August 2025
+- Panel: "**Knowledgeable Foundation Models**  at Knowledgeable Foundation Models Workshop (co-located with ACL), August 2025
+  - _Moderator:Zoey Sha Li; Panelist: Ed Hovy, Chengxiang Zhai,Yunyao Li_
 - Panel: "**Rethinking NLP Evaluation: Automatic metrics, LLM as a judge, human evaluation, and beyond**" at IT:U (Interdisciplinary Transformation University Austria) Summer School on NLP, July 2025
+  - _Moderator: Anne Lauscher; Panelist: Iryna Gurevych, Yunyao Li, Steffen Eger, Goran Glavaš_ 
 - Invited talk: "**Declarative to Generative: Building and Querying Enterprise Knowledge Bases**" at IT:U (Interdisciplinary Transformation University Austria) Summer School on NLP, July 2025
 - Keynote talk: "**Building & Querying Enterprise Knowledge Bases: From Declarative Languages to GenAI**" at [KnowledgeNLP Workshop](https://knowledge-nlp.github.io/naacl2025/) (co-located with NAACL), May 2025
 - Invited talk: "**Building & Querying Enterprise Knowledge Bases: From Declarative Languages to GenAI**" at Univ. of Michigan DB Seminars, April 2025
