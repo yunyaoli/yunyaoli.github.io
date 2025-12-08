@@ -13,6 +13,9 @@ redirect_from:
 - **[Natural Language Data Management and Interfaces](https://www.morganclaypool.com/doi/10.2200/S00866ED1V01Y201807DTM049).** **Yunyao Li** and Davood Rafiei. _Morgan Claypool Publisher_. 2018
 
 ### Refereed Articles
+
+- **PAGER: Proactive Monitoring Agent for Enterprise AI Assistant**. Sujan Dutta1, Junior Francisco Garcia Ayala, Pranav Pujar, Sai Sree Harsha, Dan Luo, Nikhil Vasudeva, Bikas Saha, Pritom Baruah, **Yunyao Li**. To appear in _AAAI (demonstration track)_ 2026. 
+
 ### 2025
 - **[Evaluation and incident prevention in an enterprise AI assistant](https://onlinelibrary.wiley.com/doi/10.1002/aaai.70028)**. Akash V. Maharaj, David Arbour, Daniel Lee, Uttaran Bhattacharya, Anup Rao, Austin Zane, Avi Feller, Kun Qian, Sajjadur Rahman, **Yunyao Li**. In _AI Magazine_, Volume46, Issue3. Fall 2025 (_Extension from [earlier IAAI article](https://ojs.aaai.org/index.php/AAAI/article/view/35161)_). 
 
