@@ -4,7 +4,8 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-_  __November 23, 2025__ I gave a keynote talk at Decision Sciences Institute Conference, November 2025 [Video recording](https://vimeo.com/1144551845/26eecd2302?share=copy&fl=sv&fe=ci). Many thanks to the conference chair [Xin (David) Ding](https://www.business.rutgers.edu/faculty/xin-ding), session host [David Dobrzykowski](https://walton.uark.edu/departments/supplychain/directory/uid/dddobrzy/name/David+Daniel+Dobrzykowski/), and the audience for an engaging session. 
+
+-  __November 23, 2025__ I gave a keynote talk at Decision Sciences Institute Conference, November 2025 [Video recording](https://vimeo.com/1144551845/26eecd2302?share=copy&fl=sv&fe=ci). Many thanks to the conference chair [Xin (David) Ding](https://www.business.rutgers.edu/faculty/xin-ding), session host [David Dobrzykowski](https://walton.uark.edu/departments/supplychain/directory/uid/dddobrzy/name/David+Daniel+Dobrzykowski/), and the audience for an engaging session. 
 - 🏫 __October 21-22, 2025__ I visited MBZUAI and NYU-Abu Dhabi to given invited talks. 
 - 🔥 __September 10, 2025__ [Adobe Experience Platform (AEP) Agent Orchestrator](https://business.adobe.com/products/experience-platform/agent-orchestrator.html) along with multiple Adobe Agents powered by it are now generally available! ([Press release](https://news.adobe.com/news/2025/09/adobe-announces-general-availability-ai-agents)).
 - 🏆 __Feburary 27, 2025__ Our paper "Evaluation and Incident Prevention in an Enterprise AI Assistant" won the **DSRI AI Incidents and Best Practices Paper Award** at IAAI'2025！([Twitter Post](https://x.com/yunyao_li/status/1895245014579716275))
