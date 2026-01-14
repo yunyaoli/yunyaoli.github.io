@@ -24,6 +24,7 @@ Since 2018
   
 ### 2025
 - Co-chair, ACL'2025 Industry Track
+- Co-organizer, Data Science with Human-in-the-Loop (DaSH) Workshop, VLDB'2025
 
 ### 2024
 - Member, Editorial Board, Computer Speech and Language
@@ -42,6 +43,7 @@ Since 2018
 - Co-organizer, Data Science with Human-in-the-Loop (DaSH) Workshop, EMNLP'2022
 - Co-organizer, Deep Learning on Graphs for Natural Language Processing, ICLR'2022, NAACL'2022
 - Action Editor, Transactions of the Association for Computational Linguistics
+- Co-organizer, 1st US-Africa Frontiers of Science, Engineering, and Medicine Symposium, 2022
 
 ### 2021
 - Member, Editorial Board, Computer Speech and Language
