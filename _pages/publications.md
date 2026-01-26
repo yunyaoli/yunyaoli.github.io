@@ -15,9 +15,9 @@ redirect_from:
 ### Refereed Articles
 
 ### 2026
-- **Feedback by Design: Understanding and Overcoming User Feedback Barriers in Conversational Agents**. Nikhil Sharma, Zheng Zhang, Daniel Lee, Guang-Jie Ren, Ziang Xiao, **Yunyao Li**. To appear in _CHI_2026.
-- 
-- **PAGER: Proactive Monitoring Agent for Enterprise AI Assistant**. Sujan Dutta, Junior Francisco Garcia Ayala, Pranav Pujar, Sai Sree Harsha, Dan Luo, Nikhil Vasudeva, Bikas Saha, Pritom Baruah, **Yunyao Li**. To appear in AAAI (Demonstration Track) 2026.
+- **Human-LLM Collaborative Feature Engineering for Tabular Data** Zhuoyan Li, Aditya Bansal, Jinzhao Li, Shishuang He, Zhuoran Lu, Mutian Zhang, Qin Liu, Yiwei Yang, Swati Jain, Ming Yin, **Yunyao Li**. To appear in _ICLR_ 2026.
+- **Feedback by Design: Understanding and Overcoming User Feedback Barriers in Conversational Agents**. Nikhil Sharma, Zheng Zhang, Daniel Lee, Guang-Jie Ren, Ziang Xiao, **Yunyao Li**. To appear in _CHI_ 2026.
+- **PAGER: Proactive Monitoring Agent for Enterprise AI Assistant**. Sujan Dutta, Junior Francisco Garcia Ayala, Pranav Pujar, Sai Sree Harsha, Dan Luo, Nikhil Vasudeva, Bikas Saha, Pritom Baruah, **Yunyao Li**. In AAAI (Demonstration Track) 2026.
 
 ### 2025
 - **[Evaluation and incident prevention in an enterprise AI assistant](https://onlinelibrary.wiley.com/doi/10.1002/aaai.70028)**. Akash V. Maharaj, David Arbour, Daniel Lee, Uttaran Bhattacharya, Anup Rao, Austin Zane, Avi Feller, Kun Qian, Sajjadur Rahman, **Yunyao Li**. In _AI Magazine_, Volume46, Issue3. Fall 2025 (_Extension from [earlier IAAI article](https://ojs.aaai.org/index.php/AAAI/article/view/35161)_). 
