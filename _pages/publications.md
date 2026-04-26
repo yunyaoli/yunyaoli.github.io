@@ -17,8 +17,8 @@ redirect_from:
 ### 2026
 - **Enhancing Enterprise Assistant Responses with Rich Multimodal Artifacts from Product Documentation** Sohan Patnaik, Sai Sree Harsha, Kowndinya Renduchintala, Milan Aggarwal, Sumit Bhatia and **Yunyao Li**. To appear in _SIGIR (Industry Track)_ 2026.
 - **Building, Serving, and Growing a Conversational AI Assistant for Enterprise** Akash Maharaj, Amy Chen, Anirudh Sureshan, Anirudh Verma, Bhumir Jhaveri, Eunyee Koh, Fei Wu, Horia Galatanu, Ken Russell, Kun Qian, Manas Garg, Mehrab Tanjim, Nishant Kapoor, Rachel Hanessian, Ramasuri Narayanam, Rohan Saxena, Sai Sree Harsha, Sally Fang, Saayan Mitra, Shaddy Garg, Shashank Tandon, Shun Jiang, Siddhartha Sahai, Som Satapathy, Sumit Bhatia, Tong Yu, Uttaran Bhattacharya, Vaishnavi Muppala, Vidit Bhatia, Victor Soares Bursztyn, Xiang Chen, Yongsung Kim, Zifan Liu, **Yunyao Li**. To appear in _SIGMOD (Industry Track)_ 2026. 
-- **Human-LLM Collaborative Feature Engineering for Tabular Data** Zhuoyan Li, Aditya Bansal, Jinzhao Li, Shishuang He, Zhuoran Lu, Mutian Zhang, Qin Liu, Yiwei Yang, Swati Jain, Ming Yin, **Yunyao Li**. To appear in _ICLR_ 2026.
-- **Feedback by Design: Understanding and Overcoming User Feedback Barriers in Conversational Agents**. Nikhil Sharma, Zheng Zhang, Daniel Lee, Guang-Jie Ren, Ziang Xiao, **Yunyao Li**. To appear in _CHI_ 2026.
+- **Human-LLM Collaborative Feature Engineering for Tabular Data** Zhuoyan Li, Aditya Bansal, Jinzhao Li, Shishuang He, Zhuoran Lu, Mutian Zhang, Qin Liu, Yiwei Yang, Swati Jain, Ming Yin, **Yunyao Li**. In _ICLR_ 2026.
+- **Feedback by Design: Understanding and Overcoming User Feedback Barriers in Conversational Agents**. Nikhil Sharma, Zheng Zhang, Daniel Lee, Guang-Jie Ren, Ziang Xiao, **Yunyao Li**. In _CHI_ 2026.
 - **PAGER: Proactive Monitoring Agent for Enterprise AI Assistant**. Sujan Dutta, Junior Francisco Garcia Ayala, Pranav Pujar, Sai Sree Harsha, Dan Luo, Nikhil Vasudeva, Bikas Saha, Pritom Baruah, **Yunyao Li**. In AAAI (Demonstration Track) 2026.
 
 ### 2025
