@@ -8,7 +8,7 @@ author_profile: true
 ## Invited Talks, Keynote Speeches, Panels, and Tutorials 
 Since 2020
 
-### 2025
+### 2026
 
 - Keynote talk "**Building & Querying Enterprise Knowledge Bases: From Declarative to Agentic**" at Agents in the Wild: Safety, Security, and Beyond workshop (co-located with ICLR), April 2026
 
