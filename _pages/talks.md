@@ -9,6 +9,10 @@ author_profile: true
 Since 2020
 
 ### 2025
+
+- Keynote talk "**Building & Querying Enterprise Knowledge Bases: From Declarative to Agentic**" at Agents in the Wild: Safety, Security, and Beyond workshop (co-located with ICLR), April 2026
+
+### 2025
 - Keynote talk "**How Large Language Models Are Reshaping Enterprise Decision-Making**" at Decision Sciences Institute Conference, November 2025 [Video recording](https://vimeo.com/1144551845/26eecd2302?share=copy&fl=sv&fe=ci)
 - Invited Talk "**Building and Querying Enterprise Knowledge Bases: From Declarative to Agentic**" at NYU Abu Dhabi, October 2025
 - Invited Talk "**From Lab to Launch: Building a Career Beyond Academia**" at MBZUAI (Mohamed bin Zayed University of Artificial Intelligence) Global Tech Talk series, October 2025 [Slides Link](https://www.slideshare.net/slideshow/from-lab-to-launch-building-a-career-beyond-academia/283941438)
