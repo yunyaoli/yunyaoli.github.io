@@ -10,7 +10,7 @@ Since 2020
 
 ### 2026
 
-- Keynote talk "**Building & Querying Enterprise Knowledge Bases: From Declarative to Agentic**" at Agents in the Wild: Safety, Security, and Beyond workshop (co-located with ICLR), April 2026
+- Keynote talk "**Building & Querying Enterprise Knowledge Bases: From Declarative to Agentic**" at [Agents in the Wild: Safety, Security, and Beyond](https://agentwild-workshop.github.io) workshop (co-located with ICLR), April 2026
 
 ### 2025
 - Keynote talk "**How Large Language Models Are Reshaping Enterprise Decision-Making**" at Decision Sciences Institute Conference, November 2025 [Video recording](https://vimeo.com/1144551845/26eecd2302?share=copy&fl=sv&fe=ci)
