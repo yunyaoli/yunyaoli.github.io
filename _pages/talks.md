@@ -9,7 +9,7 @@ author_profile: true
 Since 2020
 
 ### 2026
-
+- Keynote talk "**Rethining Graphs for the Agentic Enterprise**" at [Agent+Graph Workshop](https://seucoin.github.io/workshop/ag2026/) (co-located with VLDB), September 2026
 - Keynote talk "**From Knowledge to Action: Building Human-AI Systems for the Agentic Enterprise**" at [Workshop on Systems for Data-centric Agents with Human-in-the-loop](https://dashsys-workshop-vldb.github.io) (co-located with VLDB), September 2026
 - Plenary talk "**From Knowledge to Action: Building Human-AI Systems for the Agentic Enterprise**" [AWARE-AI](https://www.rit.edu/nrtai/) NSF Research Traineeship Program, Rochester Institute of Technology, August 2026.
 - Panel: "**Industry Panel**" at [Structured Understanding, Retrieval, and Generation in the LLM Era Workshop](https://surgellm.github.io/acl2026/) (co-located with ACL), July 2026.
