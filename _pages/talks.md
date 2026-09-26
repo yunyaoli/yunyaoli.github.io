@@ -10,7 +10,9 @@ Since 2020
 
 ### 2026
 
-- Panel: "**Industry Panel**" at [Structured Understanding, Retrieval, and Generation in the LLM Era](https://surgellm.github.io/acl2026/) (co-located with ACL), July 2026.
+- Keynote talk "**From Knowledge to Action: Building Human-AI Systems for the Agentic Enterprise**" at [Workshop on Systems for Data-centric Agents with Human-in-the-loop](https://dashsys-workshop-vldb.github.io) (co-located with VLDB), September 2026
+- Plenary talk "**From Knowledge to Action: Building Human-AI Systems for the Agentic Enterprise**" [AWARE-AI](https://www.rit.edu/nrtai/) NSF Research Traineeship Program, Rochester Institute of Technology, August 2026.
+- Panel: "**Industry Panel**" at [Structured Understanding, Retrieval, and Generation in the LLM Era Workshop](https://surgellm.github.io/acl2026/) (co-located with ACL), July 2026.
   -    _Moderator: Vivek Gupta; Panelists: Kamalika Das, Yunyao Li, Frederic Sala, Lisa Amini, Sujith Ravi_
 - Keynote talk "**Building & Querying Enterprise Knowledge Bases: From Declarative to Agentic**" at [Agents in the Wild: Safety, Security, and Beyond](https://agentwild-workshop.github.io) workshop (co-located with ICLR), April 2026
 
