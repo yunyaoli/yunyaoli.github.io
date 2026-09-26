@@ -8,6 +8,8 @@ author_profile: true
 {% include base_path %}
 
 ## Selected Board Membership
+- Member at Large, The Association for Computing Machinery (ACM), Since July 2026
+- Board Member, Advisor Board, Michigan AI, University of Michigan-Ann Arbor, since April 2026
 - Board Member, Advisory Board, School of Information, University of Michigan - Ann Arbor, Since January 2025
 - Board Member, Advisory Board, Professional MS degree in Computational Linguistics, Analytics, Search and Informatics (CLASIC), University of Colorado Boulder, Since January 2024
 - Board Member, Industry Advisory Board, Master of Science in Natural Language Processing, UC-Santa Cruz, Since September 2018
@@ -18,6 +20,9 @@ author_profile: true
 
 ## Professional Services 
 Since 2018
+
+### 2026
+- Sponsorship Chair, ACL'2027
 
 ### 2026
 - Co-chair, ACL'2026 Industry Track
