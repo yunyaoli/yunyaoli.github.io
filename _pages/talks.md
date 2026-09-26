@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks"
+title: "Talks & Panels"
 permalink: /talks/
 author_profile: true
 ---
@@ -10,6 +10,8 @@ Since 2020
 
 ### 2026
 
+- Panel: "**Industry Panel**" at [Structured Understanding, Retrieval, and Generation in the LLM Era](https://surgellm.github.io/acl2026/) (co-located with ACL), July 2026.
+  -    _Moderator: Vivek Gupta; Panelists: Kamalika Das, Yunyao Li, Frederic Sala, Lisa Amini, Sujith Ravi_
 - Keynote talk "**Building & Querying Enterprise Knowledge Bases: From Declarative to Agentic**" at [Agents in the Wild: Safety, Security, and Beyond](https://agentwild-workshop.github.io) workshop (co-located with ICLR), April 2026
 
 ### 2025
@@ -18,7 +20,7 @@ Since 2020
 - Invited Talk "**From Lab to Launch: Building a Career Beyond Academia**" at MBZUAI (Mohamed bin Zayed University of Artificial Intelligence) Global Tech Talk series, October 2025 [Slides Link](https://www.slideshare.net/slideshow/from-lab-to-launch-building-a-career-beyond-academia/283941438)
 - Keynote talk "**Declarative to Generative: Building and Querying Enterprise Knowledge Bases**" at Knowledgeable Foundation Models Workshop (co-located with ACL), August 2025
 - Panel: "**Knowledgeable Foundation Models**  at Knowledgeable Foundation Models Workshop (co-located with ACL), August 2025
-  - _Moderator:Zoey Sha Li; Panelist: Ed Hovy, Chengxiang Zhai,Yunyao Li_
+  - _Moderator:Zoey Sha Li; Panelists: Ed Hovy, Chengxiang Zhai,Yunyao Li_
 - Panel: "**Rethinking NLP Evaluation: Automatic metrics, LLM as a judge, human evaluation, and beyond**" at IT:U (Interdisciplinary Transformation University Austria) Summer School on NLP, July 2025
   - _Moderator: Anne Lauscher; Panelist: Iryna Gurevych, Yunyao Li, Steffen Eger, Goran Glavaš_ 
 - Invited talk: "**Declarative to Generative: Building and Querying Enterprise Knowledge Bases**" at IT:U (Interdisciplinary Transformation University Austria) Summer School on NLP, July 2025
