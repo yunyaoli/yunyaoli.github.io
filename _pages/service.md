@@ -21,7 +21,7 @@ author_profile: true
 ## Professional Services 
 Since 2018
 
-### 2026
+### 2027
 - Sponsorship Chair, ACL'2027
 
 ### 2026
