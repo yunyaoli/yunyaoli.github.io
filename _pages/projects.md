@@ -15,6 +15,12 @@ I'm driving the underlying enterprise harness work for [Adobe CX Enterprise Cowo
 
 [Adobe announcement](https://news.adobe.com/news/2026/04/adobe-unveils-cx-enterprise-coworker) · [Technical overview](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/overview)
 
+**Adobe Experience Platform Agent Orchestrator**
+
+My work on enterprise agentic AI also includes [Adobe Experience Platform Agent Orchestrator](https://business.adobe.com/products/experience-platform/agent-orchestrator.html). It interprets user intent, plans multi-step workflows, and coordinates specialized agents using enterprise data and knowledge. Through AI Assistant, it enables users to work with agents across audience management, customer journeys, and analytics, with human oversight and enterprise security and governance.
+
+[Adobe announcement](https://news.adobe.com/news/2025/09/adobe-announces-general-availability-ai-agents)
+
 **Adobe Experience Platform** I drove the applied R&D work for [AI Assistant in Adobe Experience Platform](https://business.adobe.com/products/sensei/ai-assistant.html) and its underlying GenAI platform. We are bringing the power of Generative AI and Knowledge Graph to enterprise systems where accuracy, privacy, trust, governance and extensibility are non-negotiable. Our work will transform the way companies approach audiences, journeys and personalization at scale. 
 
 **News Coverage:** 
