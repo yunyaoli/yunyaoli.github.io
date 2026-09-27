@@ -9,7 +9,13 @@ author_profile: true
 
 ## Active Projects 
 
-**Adobe Experience Platform** I'm driving the applied R&D for [AI Assistant in Adobe Experience Platform](https://business.adobe.com/products/sensei/ai-assistant.html) and its underlying GenAI platform. We are bringing the power of Generative AI and Knowledge Graph to enterprise systems where accuracy, privacy, trust, governance and extensibility are non-negotiable. Our work will transform the way companies approach audiences, journeys and personalization at scale. 
+**Adobe CX Enterprise Coworker**
+
+I'm driving the underlying enterprise harness work for [Adobe CX Enterprise Coworker](https://business.adobe.com/products/cx-enterprise-coworker.html), with a particular focus on its Context Intelligence layer. The harness coordinates agent reasoning, skill selection, execution, validation, and error recovery to carry out multi-step customer experience workflows. It provides the execution foundation for agents that turn business goals into actions across Adobe and connected systems, with human oversight and enterprise governance.
+
+[Adobe announcement](https://news.adobe.com/news/2026/04/adobe-unveils-cx-enterprise-coworker) · [Technical overview](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/overview)
+
+**Adobe Experience Platform** I drove the applied R&D work for [AI Assistant in Adobe Experience Platform](https://business.adobe.com/products/sensei/ai-assistant.html) and its underlying GenAI platform. We are bringing the power of Generative AI and Knowledge Graph to enterprise systems where accuracy, privacy, trust, governance and extensibility are non-negotiable. Our work will transform the way companies approach audiences, journeys and personalization at scale. 
 
 **News Coverage:** 
 - 06/18/2024 - Bloomberg Tech Disruptors: 
