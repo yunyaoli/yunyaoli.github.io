@@ -26,15 +26,7 @@ Yunyao is an ACM Distinguished Member and serves as an ACM Member-at-Large. She 
 
 </div>
 </details>
-
-
-### Short Bio
-
-Yunyao Li is the Director of Machine Learning at Adobe Experience Platform, where she leads key strategic initiatives to bring the power of Generative AI and Knowledge Graph to enterprise systems and transform the way companies approach audiences, journeys and personalization at scale. Previously, she was the Head of Machine Learning, Apple Knowledge Platform, where she led the building of the next-generation machine learning solutions to help power features such as Siri and Spotlight, improving experience for billions of Apple users. Before joining Apple, she was a Distinguished Research Staff Member and Senior Research Manager at IBM Research - Almaden where she built and managed the Scalable Knowledge Intelligence department. She was also an IBM Master Inventor and a member of IBM Academy of Technology. She built systems, developed solutions, and delivered core technologies to over 20 IBM products under brands such as Watson, InfoSphere, and Cognos. 
-
-Yunyao is particularly known for her work in scalable natural language processing with human-computer cooperation and declarative text understanding, enterprise search, and database usability. In these areas, she has published over 100 peer-reviewed articles, been granted 36 patents, and co-taught multiple graduate-level courses (including 2 Massive Open Online Courses).  She co-authored two books: "[Natural Language Data Management and Interfaces](https://link.springer.com/book/10.1007/978-3-031-01862-6)'' (2018) and "[Natural Language Interfaces to Databases](https://link.springer.com/book/10.1007/978-3-031-45043-3)" (2024). Her technical contributions have been recognized by prestigious awards on a regular basis. 
-
-Yunyao is an ACM Distinguished Member. She is a member of the inaugural New Voices program of the American National Academies (1 out of 18 selected nationwide) and represented US young scientists at World Laureates Forum Young Scientists Forum in 2019 (1 of 4 selected nationwide). She has served the NLP and database communities with distinction and regularly serves as organizer and senior committee member for top conferences and on editorial boards. She was a member of NAACL Executive Board from 2022-2024. She received her undergraduate degrees from Tsinghua University, and her masters and Ph.D. from the University of Michigan - Ann Arbor.  
+ 
 
 ### More About Me
 
@@ -44,6 +36,16 @@ Learn more about [my personal journey as a 1st generation college student](https
 
 
 <!--
+
+### Short Bio
+
+Yunyao Li is the Director of Machine Learning at Adobe Experience Platform, where she leads key strategic initiatives to bring the power of Generative AI and Knowledge Graph to enterprise systems and transform the way companies approach audiences, journeys and personalization at scale. Previously, she was the Head of Machine Learning, Apple Knowledge Platform, where she led the building of the next-generation machine learning solutions to help power features such as Siri and Spotlight, improving experience for billions of Apple users. Before joining Apple, she was a Distinguished Research Staff Member and Senior Research Manager at IBM Research - Almaden where she built and managed the Scalable Knowledge Intelligence department. She was also an IBM Master Inventor and a member of IBM Academy of Technology. She built systems, developed solutions, and delivered core technologies to over 20 IBM products under brands such as Watson, InfoSphere, and Cognos. 
+
+Yunyao is particularly known for her work in scalable natural language processing with human-computer cooperation and declarative text understanding, enterprise search, and database usability. In these areas, she has published over 100 peer-reviewed articles, been granted 36 patents, and co-taught multiple graduate-level courses (including 2 Massive Open Online Courses).  She co-authored two books: "[Natural Language Data Management and Interfaces](https://link.springer.com/book/10.1007/978-3-031-01862-6)'' (2018) and "[Natural Language Interfaces to Databases](https://link.springer.com/book/10.1007/978-3-031-45043-3)" (2024). Her technical contributions have been recognized by prestigious awards on a regular basis. 
+
+Yunyao is an ACM Distinguished Member. She is a member of the inaugural New Voices program of the American National Academies (1 out of 18 selected nationwide) and represented US young scientists at World Laureates Forum Young Scientists Forum in 2019 (1 of 4 selected nationwide). She has served the NLP and database communities with distinction and regularly serves as organizer and senior committee member for top conferences and on editorial boards. She was a member of NAACL Executive Board from 2022-2024. She received her undergraduate degrees from Tsinghua University, and her masters and Ph.D. from the University of Michigan - Ann Arbor. 
+
+
 Yunyao Li is the Head of Machine Learning, Apple Knowledge Platform. She is an ACM Distinguished Member. Until recently, she was a Senior Research Manager and Distinguished Research Staff Member with IBM Almaden Research Center, where she managed the Scalable Knowledge Intelligence department.   She was a member of the inaugural New Voices program at the National Academies. She was also a Master Inventor, a member of the IBM Academy of Technology. 
 
 Her expertise is in the interdisciplinary areas of natural language processing, databases, human-computer interaction, and information retrieval. She has published over 50 peer-reviewed, referred articles, and filed over 30 patents in these areas. She has also co-authored a book Natural Language Data Management and Interfaces.
