@@ -26,7 +26,14 @@ Yunyao is an ACM Distinguished Member and serves as an ACM Member-at-Large. She 
 
 </div>
 </details>
- 
+
+ **Recent Highlights**
+
+- **September 2026** — Gave [keynotes at two VLDB workshops](https://yunyaoli.github.io/talks/) on knowledge graphs and human-AI systems for the agentic enterprise.
+- **July 2026** — Began serving as an [ACM Member-at-Large](https://yunyaoli.github.io/service/).
+- **2026** — Our paper on [building, serving, and growing an enterprise conversational AI assistant](https://yunyaoli.github.io/publications/) appeared in the SIGMOD Industry Track.
+
+[More news →](https://yunyaoli.github.io/news/)
 
 ### More About Me
 
