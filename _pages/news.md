@@ -7,7 +7,7 @@ author_profile: true
 
 - __September 4, 2026__ — Gave [keynotes at two VLDB workshops](https://yunyaoli.github.io/talks/) on knowledge graphs and human-AI systems for the agentic enterprise.
 - __July 1, 2026__ — Began serving as an [ACM Member-at-Large](https://yunyaoli.github.io/service/).
-- ___May 30, 2026__ — Our paper on [building, serving, and growing an enterprise conversational AI assistant](https://yunyaoli.github.io/publications/) appeared in the SIGMOD Industry Track.
+- __May 30, 2026__ — Our paper on [building, serving, and growing an enterprise conversational AI assistant](https://yunyaoli.github.io/publications/) appeared in the SIGMOD Industry Track.
 -  __November 23, 2025__ Gave a keynote talk at Decision Sciences Institute Conference, November 2025 [Video recording](https://vimeo.com/1144551845/26eecd2302?share=copy&fl=sv&fe=ci). Many thanks to the conference chair [Xin (David) Ding](https://www.business.rutgers.edu/faculty/xin-ding), session host [David Dobrzykowski](https://walton.uark.edu/departments/supplychain/directory/uid/dddobrzy/name/David+Daniel+Dobrzykowski/), and the audience for an engaging session. 
 - 🏫 __October 21-22, 2025__ Visited MBZUAI and NYU-Abu Dhabi to given invited talks. 
 - 🔥 __September 10, 2025__ [Adobe Experience Platform (AEP) Agent Orchestrator](https://business.adobe.com/products/experience-platform/agent-orchestrator.html) along with multiple Adobe Agents powered by it are now generally available! ([Press release](https://news.adobe.com/news/2025/09/adobe-announces-general-availability-ai-agents)).
